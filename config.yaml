@@ -8,22 +8,16 @@ recent_days: 7
 keywords:
     "Motion Generation":
         filters: ["Motion Generation", "Motion Synthesis",
-                  "Text-to-Motion", "Motion Foundation Model", "Motion Language Model"]
+                  "Text-to-Motion", "Motion Foundation Model"]
 
     "Human-Scene Interaction (HSI)":
-        filters: ["Human-Scene Interaction", "Scene-Aware Motion",
-                  "Human Motion in 3D Scenes", "Scene-Conditioned Motion",
-                  "Character-Scene Interaction"]
+        filters: ["Human-Scene Interaction"]
 
     "Human-Object Interaction (HOI)":
-        filters: ["Human-Object Interaction Generation", "HOI Generation",
-                  "Hand-Object Interaction Generation"]
+        filters: ["Human-Object Interaction Generation", "HOI Generation"]
 
     "Human-Human Interaction (HHI)":
-        filters: ["Human-Human Interaction Generation", "Multi-Person Motion Generation",
-                "Human Interaction Synthesis","Interactive Motion Generation"]
+        filters: ["Human Interaction Generation", "Interactive Motion Generation"]
 
     "Vision-Language-Action (VLA)":
-        filters: ["Vision-Language-Action", "VLA Model",
-                  "Robot Foundation Model", "Generalist Robot Policy",
-                  "World Action Model", "Embodied World Model"]
+        filters: ["Vision-Language-Action", "VLA", "World Action Model"]
