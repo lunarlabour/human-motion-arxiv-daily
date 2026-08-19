@@ -1,30 +1,10 @@
-# TODO: add papers by configuration file
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "lunarlabour"
-repo_name: "human-motion-arxiv-daily"
-show_authors: True
-show_links: True
-show_badge: True
 max_results: 40
 
-publish_readme: True
-publish_gitpage: True
-publish_wechat: True
+json_path: 'papers.json'
+recent_json_path: 'recent.json'
+readme_path: 'README.md'
+recent_days: 30
 
-# file paths
-black_list_path: 'blacklists.txt'
-recent_trend_path: './pdf_analysis/recent_trends.txt'
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
-
-md_readme_path: 'README.md'
-claudeai_path: 'analysis_by_ai.md'
-md_gitpage_path: './docs/index.md'
-md_wechat_path: './docs/wechat.md'
-
-
-# keywords to search
 keywords:
     "Motion Generation":
         filters: ["Motion Generation", "Human Motion", "Human Motions",
@@ -53,7 +33,6 @@ keywords:
                   "Multi-Person Motion", "Two-Person Motion", "Two-Person Motions",
                   "Interactive Motion Generation"]
 
-    # ---- NEW ----
     "Vision-Language-Action (VLA)":
         filters: ["Vision-Language-Action", "Vision Language Action",
                   "VLA Model", "VLA Models", "Robot Foundation Model",
@@ -61,7 +40,6 @@ keywords:
                   "Robot Manipulation Policy", "Embodied Foundation Model",
                   "Loco-Manipulation"]
 
-    # ---- NEW ----
     "World Models":
         filters: ["World Model", "World Models", "World-Action Model",
                   "World Action Model", "Video World Model",
