@@ -1,4 +1,4 @@
-max_results: 10
+max_results: 20
 
 json_path: 'papers.json'
 recent_json_path: 'recent.json'
