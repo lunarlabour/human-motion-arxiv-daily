@@ -1,0 +1,69 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "lunarlabour"
+repo_name: "human-motion-arxiv-daily"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 40
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: True
+
+# file paths
+black_list_path: 'blacklists.txt'
+recent_trend_path: './pdf_analysis/recent_trends.txt'
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+claudeai_path: 'analysis_by_ai.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+
+# keywords to search
+keywords:
+    "Motion Generation":
+        filters: ["Motion Generation", "Human Motion", "Human Motions",
+                  "Dance Generation", "Motion Understanding", "Motion Synthesis",
+                  "Motion Diffusion", "3D Motion Generation",
+                  "Human Motion Generation", "Human Motion Prediction",
+                  "Human Pose Generation", "Text-to-Motion", "Audio-to-Motion",
+                  "Speech-to-Motion", "Text Driven Motion",
+                  "Text-Driven Motion Generation", "Motion Editing",
+                  "Motion Tokenizer", "Motion Language Model"]
+
+    "Human-Scene Interaction (HSI)":
+        filters: ["Human-Scene Interaction", "Human-Scene Interactions",
+                  "Human Scene", "Human-In-Scene", "Scene-Aware Motion",
+                  "Scene-Aware Human", "Character-Scene Interaction",
+                  "Human Motion in 3D Scenes", "Scene-Conditioned Motion",
+                  "Affordance-Aware Motion"]
+
+    "Human-Object Interaction (HOI)":
+        filters: ["Human-Object Interaction", "Human-Object", "Human Object",
+                  "Body-Object", "Hand-Object", "Object Manipulation Motion",
+                  "Contact Prediction", "Grasp Synthesis"]
+
+    "Human-Human Interaction (HHI)":
+        filters: ["Human-Human Motion", "Human-Human", "Human-Human Interaction",
+                  "Multi-Person Motion", "Two-Person Motion", "Two-Person Motions",
+                  "Interactive Motion Generation"]
+
+    # ---- NEW ----
+    "Vision-Language-Action (VLA)":
+        filters: ["Vision-Language-Action", "Vision Language Action",
+                  "VLA Model", "VLA Models", "Robot Foundation Model",
+                  "Generalist Robot Policy", "Action Chunking",
+                  "Robot Manipulation Policy", "Embodied Foundation Model",
+                  "Loco-Manipulation"]
+
+    # ---- NEW ----
+    "World Models":
+        filters: ["World Model", "World Models", "World-Action Model",
+                  "World Action Model", "Video World Model",
+                  "Action-Conditioned Video", "Latent Dynamics Model",
+                  "Predictive World Model", "Neural Simulator"]
