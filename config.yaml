@@ -1,5 +1,8 @@
 max_results: 20
 
+# arXiv subject categories to search in (per-topic override via `categories`)
+categories: ['cs.CV', 'cs.GR']
+
 json_path: 'papers.json'
 recent_json_path: 'recent.json'
 readme_path: 'README.md'
@@ -21,3 +24,4 @@ keywords:
 
     "Vision-Language-Action (VLA)":
         filters: ["Vision-Language-Action", "VLA", "World Action Model"]
+        categories: ['cs.RO', 'cs.CV', 'cs.LG']

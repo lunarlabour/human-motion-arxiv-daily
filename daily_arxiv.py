@@ -16,9 +16,17 @@ def load_config(path):
     with open(path, 'r', encoding='utf-8') as f:
         config = yaml.load(f, Loader=yaml.FullLoader)
 
-    # turn each category's filter list into an arXiv boolean query
+    # turn each topic's filter list into an arXiv boolean query,
+    # restricted to the configured arXiv categories
+    default_cats = config.get('categories', [])
     for topic, spec in config['keywords'].items():
-        spec['query'] = ' OR '.join(f'"{term}"' for term in spec['filters'])
+        terms = ' OR '.join(f'"{term}"' for term in spec['filters'])
+        cats = spec.get('categories', default_cats)
+        if cats:
+            cat_query = ' OR '.join(f'cat:{c}' for c in cats)
+            spec['query'] = f'({terms}) AND ({cat_query})'
+        else:
+            spec['query'] = terms
 
     return config
 
