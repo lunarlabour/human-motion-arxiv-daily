@@ -3,7 +3,8 @@ name: Update Arxiv Papers
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0/12 * * *"
+    # odd minute/hour to avoid the top-of-the-hour stampede on arXiv's API
+    - cron: "37 2/12 * * *"
 
 permissions:
   contents: write

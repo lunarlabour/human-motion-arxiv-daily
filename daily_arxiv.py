@@ -11,6 +11,10 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 
 ARXIV_ABS_URL = "https://arxiv.org/abs/"
 
+# one shared client so its built-in rate limiter spaces out ALL requests;
+# arXiv asks for ~3s between requests, be conservative to dodge 429s
+CLIENT = arxiv.Client(delay_seconds=10, num_retries=5)
+
 
 def load_config(path):
     with open(path, 'r', encoding='utf-8') as f:
@@ -32,13 +36,12 @@ def load_config(path):
 
 
 def fetch_papers(query, max_results):
-    client = arxiv.Client()
     search = arxiv.Search(query=query,
                            max_results=max_results,
                            sort_by=arxiv.SortCriterion.SubmittedDate)
 
     papers = {}
-    for result in client.results(search):
+    for result in CLIENT.results(search):
         paper_id = result.get_short_id().split('v')[0]
         papers[paper_id] = {
             'title': result.title,
@@ -118,8 +121,18 @@ def main():
     store = {}
     for topic, spec in config['keywords'].items():
         logging.info(f"Searching: {topic}")
-        papers = fetch_papers(spec['query'], max_results)
+        try:
+            papers = fetch_papers(spec['query'], max_results)
+        except Exception as e:
+            # rate-limited or transient API failure: skip this topic,
+            # keep what the other topics fetched
+            logging.warning(f"Skipping {topic}: {e}")
+            continue
         store = update_store(store_path, topic, papers)
+
+    if not store:
+        logging.warning("All topics failed; leaving existing files untouched.")
+        return
 
     recent = select_recent(store, recent_days)
     with open(recent_path, 'w', encoding='utf-8') as f:
