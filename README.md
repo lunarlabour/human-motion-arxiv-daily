@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-08-22. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-08-23. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -9,14 +9,6 @@
 | 2026-08-20 | [Learning to Beat: Phenotype-Guided Latent Flow with Regional Motion Priors for Biventricular Motion Synthesis](https://arxiv.org/abs/2608.19738) | Xuan Yang, Xiaohan Yuan, Hao Li, Lingyu Chen, Yanan Liu, Qingya Li, Lei Li |
 | 2026-08-19 | [CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes](https://arxiv.org/abs/2608.18734) | Kumal Hewagamage, Isuranga Senavirathne, Sasika Amarasinghe, Hasitha Gallella, Dulanga Weerakoon, Vigneshwaran Subbaraju, Ranga Rodrigo |
 | 2026-08-16 | [FlowDance: Music-Driven Dance Video Generation with Parallel Pose and RGB Streams](https://arxiv.org/abs/2608.15818) | Genying Li, Boda Lin, Jiachen Li, Zijian Jia, Haojie Zheng, Yiming Wang, Shuchen Weng, Si Li |
-| 2026-08-15 | [MAD-HOI: Masked Autoregressive Diffusion for Generating Articulated Hand Object Interactions from Text](https://arxiv.org/abs/2608.10162) | Ananya Bal, Kartik Sharma, Ethan Lai, Samyak Tiwari, Liza Dahiya, Chaitanya Chawla, Laszlo A. Jeni |
-
-## Human-Object Interaction (HOI)
-
-| Updated | Title | Authors |
-| --- | --- | --- |
-| 2026-08-15 | [HOIMask: Towards Generative Masked Modeling for Human Object Interaction Generation](https://arxiv.org/abs/2608.15141) | Yihong Ji, Jinsong Zhang, He Hu, Hongbo Xu |
-| 2026-08-15 | [MAD-HOI: Masked Autoregressive Diffusion for Generating Articulated Hand Object Interactions from Text](https://arxiv.org/abs/2608.10162) | Ananya Bal, Kartik Sharma, Ethan Lai, Samyak Tiwari, Liza Dahiya, Chaitanya Chawla, Laszlo A. Jeni |
 
 ## Vision-Language-Action (VLA)
 
