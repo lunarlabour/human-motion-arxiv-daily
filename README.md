@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-09-05. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-09-06. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -47,8 +47,3 @@
 | 2026-08-30 | [Training-Free Action Correction for VLA Model Failures via Language Feedback](https://arxiv.org/abs/2608.29967) | Owen Kwon, Pablo Ortega-Kral, Arthur Bucker, Jean Oh |
 | 2026-08-30 | [DriftingVLA: Native One-Step Vision-Language-Action Generation via Per-Dimension Temporal Drifting](https://arxiv.org/abs/2608.29749) | Yuxuan Gao, Shiqi Zhang, Yedong Shen, Yifan Duan, Wenhao Yu, Xin Zhang, Siyuan Cao, Jiajun Deng, Yanyong Zhang |
 | 2026-08-30 | [AGM: Achievement-Grounded Memory for Closed-Loop Agents with Frozen VLA Policies](https://arxiv.org/abs/2608.29537) | Hongbo Gao, Zeyu Ni, Xin Wen, Siyu Xu, Ruifeng Li |
-| 2026-08-29 | [SMILE: Smooth Motion for Improved Long-Horizon VLA Execution](https://arxiv.org/abs/2608.29432) | Jongwoo Park, E-Ro Nguyen, Kanchana Ranasinghe, Cristina Mata, Xiang Li, Michael S Ryoo |
-| 2026-08-29 | [AdaVLA: Adaptive Step Flow Matching for Training-free Acceleration of Vision-Language-Action Models](https://arxiv.org/abs/2608.29208) | Sunghwan Han, Youngtae Han, Youngmin Yi |
-| 2026-08-29 | [DREAM: Deployment-Time Demonstration Generation via Real-to-Sim for Scalable Policy Adaptation](https://arxiv.org/abs/2608.29078) | Makoto Sato, Tatsuya Matsushima, Yutaka Matsuo, Yusuke Iwasawa |
-| 2026-08-29 | [A Degradation-Tolerance Benchmark for Camera-Only End-to-End Driving](https://arxiv.org/abs/2608.29005) | Haohua Que, Handong Yao |
-| 2026-08-29 | [Hydra: A Navigation World Action Model with Discrete Latent Planning and Continuous Flow-Matching Execution](https://arxiv.org/abs/2608.28995) | Mohammad Nazeri, Alexandyr Card, Samira Huber, Anuj Pokhrel, Yujun Wang, Ruben Hammele, Daeun Song, Sören Pirk, Xuesu Xiao |
