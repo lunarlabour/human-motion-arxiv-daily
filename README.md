@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-09-12. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-09-13. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -44,9 +44,3 @@
 | 2026-09-06 | [ContextFlow: In-Context Flow Matching for Robot Manipulation](https://arxiv.org/abs/2609.06852) | Jian Ding, Xianjie Dai, Roei Herzig, Nussair Hroub, Jinjie Mai, Dengxin Dai, Bernard Ghanem, Mohamed Elhoseiny |
 | 2026-09-06 | [Learning to Use Imagination: Progress-Conditioned Future Utilization for World Action Models](https://arxiv.org/abs/2609.06578) | Yijie Zhu, Zitong Yu, Wei Li, Hui Ma, Wen Li, Rui Shao, Liqiang Nie |
 | 2026-09-06 | [VLA-Corrector: Stage-Aware Observable State Understanding for Prompt-Based Closed-Loop Recovery of Vision-Language-Action Policies](https://arxiv.org/abs/2609.06508) | Chang Song, Bin Qian, Yan Feng, Zhijie Song |
-| 2026-09-05 | [GloVLA: Let Geometry Move and Local VLA Interact for Robust Object-Centric Manipulation in Unstructured Environments](https://arxiv.org/abs/2609.06256) | Truong Thanh Nguyen, Huy Hoang Nguyen, Ha Anh Nguyen, Binh Khanh Dinh, Ngo Anh Vien, Duy Nguyen Ho Minh, Minh Nhat Vu, Ngan Le |
-| 2026-09-05 | [MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control](https://arxiv.org/abs/2609.06251) | Ting Huang, Yue Huang, Zeyu Zhang, Shuicheng Yan, Hao Tang |
-| 2026-09-05 | [RefGuard: Identity-Aware Language-Guided Robot Manipulation via Joint Target-Anchor-Frame Grounding](https://arxiv.org/abs/2609.06221) | Lan Wei, Kangyi Lu, Yongchen Wang, Chenmeng Bi, Qi Chen, Hanlin Niu, Yip Fun Yeung, Dandan Zhang |
-| 2026-09-05 | [Where Success Breaks: Failure-Boundary Learning for Robust Vision-Language-Action Models](https://arxiv.org/abs/2609.06114) | Yanzhe Chen, Zhijun Cao, Mike Zheng Shou |
-| 2026-09-05 | [LayerRoute: Action-Conditioned Mixture-of-Layers Routing for Vision-Language-Action Policies](https://arxiv.org/abs/2609.06079) | Zheng Lu, Haoran Liao, Wanqi Zhong, Yunhe Ni, Lijie Wang, Xingjie Fan, Zhisheng Chen, Yantang Qu, Meijia Chen, Tianyu Xin, Zirui Song, Yiming Li |
-| 2026-09-05 | [A Brain-inspired Hierarchical Framework for Zero-Shot Robot Task Reasoning and Execution](https://arxiv.org/abs/2609.05985) | Guangming Wang, Pengfei Ye, Qizhen Ying, Yixiong Jing, Yuxiang Ma, Haonan Chen, Haibing Wu, Olaf Wysocki, Molong Duan, Brian Sheil |
