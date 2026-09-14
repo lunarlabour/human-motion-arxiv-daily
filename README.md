@@ -5,10 +5,17 @@
 
 | Updated | Title | Authors |
 | --- | --- | --- |
+| 2026-09-11 | [UniMo: Unifying Human and Animal Motion Generation](https://arxiv.org/abs/2609.12342) | Zeyu Zhang, Zhiyuan Zhang, Siheng Wang, Yiran Wang, Danning Li, Ian Reid, Richard Hartley |
 | 2026-09-10 | [Multi-Modal Controlled Coherent Motion Generation](https://arxiv.org/abs/2609.11439) | Yifei Liu, Qiong Cao, Hongwei Yi, Huaiguang Jiang, Changxing Ding |
 | 2026-09-09 | [Decoupled Self-Forcing Distillation for Streaming Talking Head Generation](https://arxiv.org/abs/2609.10317) | Yanru An, Ruiyan Wang, Wenwu Wei, Rui Bu, Qi Wang, Hongwei Hu, Zhengxue Cheng, Rong Xie, Li Song, Wenjun Zhang |
 | 2026-09-08 | [ReMoMask-2: Latent Retrieval-Augmented Masked Motion Generation](https://arxiv.org/abs/2609.08365) | Yiran Wang, Zeyu Zhang, Ling Shao, Hao Tang |
 | 2026-09-07 | [Flexible Motion Generation from Language and Style References](https://arxiv.org/abs/2609.08032) | Kai Weixian Lan, Bodie Criswell, Briana Fedkiw, Zhan Zhang, Joseph Teran, Daniel Holden |
+
+## Human-Object Interaction (HOI)
+
+| Updated | Title | Authors |
+| --- | --- | --- |
+| 2026-09-11 | [Uni-HOI:A Unified framework for Learning the Joint distribution of Text and Human-Object Interaction](https://arxiv.org/abs/2604.27491) | Mengfei Zhang, Jinlu Zhang, Zhigang Tu |
 
 ## Vision-Language-Action (VLA)
 
