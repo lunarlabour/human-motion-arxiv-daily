@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-09-18. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-09-19. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -11,13 +11,6 @@
 | 2026-09-13 | [Open-UniMo: Towards Unified Motion-Language Understanding and Generation in the Open World](https://arxiv.org/abs/2609.14615) | Guocun Wang, Kenkun Liu, Guorui Song, Jing Lin, Zhe Huang, Luyuan Zhang, Dake Zhong, Choo Sin Wai, Xiaoguang Han, Haoqian Wang |
 | 2026-09-12 | [MorphoStyle: Motion Style Transfer with Morphology Control](https://arxiv.org/abs/2609.14189) | Xin Feng, Eleonora D'Arnese, Mohan Sridharan |
 | 2026-09-12 | [SignMimic: Robust High-Quality Sign Language Motion Generation via Human-Shape-Oblivious Pose Transfer Guidance](https://arxiv.org/abs/2609.14122) | Zhewen He, Junyi Yu, Haomian Huang, Zhenhua Li, Yi Fang |
-| 2026-09-11 | [UniMo: Unifying Human and Animal Motion Generation](https://arxiv.org/abs/2609.12342) | Zeyu Zhang, Zhiyuan Zhang, Siheng Wang, Yiran Wang, Danning Li, Ian Reid, Richard Hartley |
-
-## Human-Object Interaction (HOI)
-
-| Updated | Title | Authors |
-| --- | --- | --- |
-| 2026-09-11 | [Uni-HOI:A Unified framework for Learning the Joint distribution of Text and Human-Object Interaction](https://arxiv.org/abs/2604.27491) | Mengfei Zhang, Jinlu Zhang, Zhigang Tu |
 
 ## Vision-Language-Action (VLA)
 
@@ -88,9 +81,3 @@
 | 2026-09-12 | [GeomVLA: Unifying Scene, Motion, and Action in 3D](https://arxiv.org/abs/2609.13812) | Ziyin Xiong, Nikos Gkanatsios, Moritz Reuss, Katerina Fragkiadaki |
 | 2026-09-12 | [GROOVE: Geometry-Guided Reduction of Operational-Space Jerk in VLA Execution](https://arxiv.org/abs/2609.13695) | Sangho Yun, Minsoo Kim, Minwoo Cho, Hwanjo Yu |
 | 2026-09-12 | [How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026](https://arxiv.org/abs/2609.13679) | Jiaming Wang, Jizhuo Chen, Diwen Liu, Wang Song, Qiang Wang, Jie Ren, Chao Fu, Dingkun Zhu, Minchi Ruan, Hongtong Li, Yuhua Jiang, Zhiwei Xue, Yongping Pan, Harold Soh |
-| 2026-09-11 | [HuRo: Robotizing Human Videos for Scalable VLA Pretraining](https://arxiv.org/abs/2609.10706) | Jinho Jeong, Se June Joo, Jaehyun Kang, Dongyun Kim, Yena Kim, Hanjung Kim, Seon Joo Kim |
-| 2026-09-11 | [Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model](https://arxiv.org/abs/2609.13053) | Hoeun Lee, Jaeik Kim, Jusang Oh, Jinhyeok Kim, Geon Choi, Hyeonggeun Kim, Jaeyoung Do |
-| 2026-09-11 | [Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models](https://arxiv.org/abs/2609.12641) | Jianman Lin, Shailesh Shailesh, Zhongyi Luo, Jiafei Duan |
-| 2026-09-11 | [IMPLY: Physically Anchored Consistency for World-Model Rollouts](https://arxiv.org/abs/2609.12441) | Aman Mehta, Riya Baviskar |
-| 2026-09-11 | [READ: Learning Risk-Informed Fields for End-to-End Autonomous Driving](https://arxiv.org/abs/2609.12371) | Zhiyuan Liu, Yuanxin Tian, Zehong Ke, Jinhao Li, Hao Cheng, Zhenhua Xu, Wenhao Yu, Jianqiang Wang |
-| 2026-09-11 | [DATAFARM: Distribution-Aligned Task and Motion Planning for Fine-Tuning Vision-Language-Action Models](https://arxiv.org/abs/2609.12316) | Samrat Sahoo, Yixuan Huang, Tom Silver |
