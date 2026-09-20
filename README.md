@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-09-19. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-09-20. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -9,8 +9,6 @@
 | 2026-09-14 | [MoVT: Video-Augmented Motion Tokenizer for Text-to-Motion Generation](https://arxiv.org/abs/2609.14965) | Beibei Jing, Tianle Guo, Youjia Zhang, Zikai Song, Yawei Luo, Junqing Yu, Tao Guan, Wei Yang |
 | 2026-09-14 | [ConGraspXL: Controllable Constraint-Conditioned Dexterous Grasping Motion Synthesis](https://arxiv.org/abs/2609.16319) | Hui Zhang, Mirko Meboldt, Jie Song |
 | 2026-09-13 | [Open-UniMo: Towards Unified Motion-Language Understanding and Generation in the Open World](https://arxiv.org/abs/2609.14615) | Guocun Wang, Kenkun Liu, Guorui Song, Jing Lin, Zhe Huang, Luyuan Zhang, Dake Zhong, Choo Sin Wai, Xiaoguang Han, Haoqian Wang |
-| 2026-09-12 | [MorphoStyle: Motion Style Transfer with Morphology Control](https://arxiv.org/abs/2609.14189) | Xin Feng, Eleonora D'Arnese, Mohan Sridharan |
-| 2026-09-12 | [SignMimic: Robust High-Quality Sign Language Motion Generation via Human-Shape-Oblivious Pose Transfer Guidance](https://arxiv.org/abs/2609.14122) | Zhewen He, Junyi Yu, Haomian Huang, Zhenhua Li, Yi Fang |
 
 ## Vision-Language-Action (VLA)
 
@@ -74,10 +72,3 @@
 | 2026-09-14 | [XRoboToolKit-T: Teleoperation with High Stability and Precision with Tactile Sensing for Contact-rich Manipulation](https://arxiv.org/abs/2609.16437) | Xiwen Dengxiong, Xueting Wang, Ke Jing, Rui Li, Yunbo Zhang |
 | 2026-09-13 | [Task-Specified Active Metrological Inspection with Measurement-Steered VLA Manipulation and Deterministic Evidence Gating](https://arxiv.org/abs/2609.14219) | Zhiling Chen, Jingzhan Ge, Ruimin Chen, Matthew P. Castanier, David Gorsich, Farhad Imani |
 | 2026-09-13 | [World-Action Models for Robot Learning and Control: A Survey](https://arxiv.org/abs/2609.16074) | Zuxing Lu, Hongjia Zhai, Guanzhi Wang, Huajian Zeng, Jiaqi Yang, Jingyu Liu, Lei Cheng, Yuantai Zhang, Yuheng Qiu, Zezhou Cheng, Ivan Laptev, Danfei Xu, Benjamin Riviere, Giuseppe Loianno, Eric Xing, Xingxing Zuo |
-| 2026-09-12 | [Visible Touch: Rendering Contact for Visuomotor Policies](https://arxiv.org/abs/2609.14156) | Metin Alp Dogan, Edward Sun, Feng Xu, Daniel Wu, Allen Peng, Dennis Hong, Yuchen Cui |
-| 2026-09-12 | [When Faster VLA Deployment Changes Closed-Loop Behavior: Task Success-Latency Analysis of SmolVLA Across PyTorch and ONNX Variants](https://arxiv.org/abs/2609.14146) | Rafiqul Islam |
-| 2026-09-12 | [What Makes an Efficient VLA? Navigating Action-Head Design, Scaling, and Latency](https://arxiv.org/abs/2609.13984) | Luoyang Sun, Guoyang Xia, Fengfa Li, Lei Ren, Xinyu Cui, Haifeng Zhang, Fangxiang Feng, Kaike Zhang, Kun Zhan, Yan Xie, Jun Wang, Cheng Deng |
-| 2026-09-12 | [ReWeight: Leveraging Human Data for VLA Post-Training via Demonstration Retrieval and Sample Weighting](https://arxiv.org/abs/2609.13851) | Chenwei Wang, Dianye Huang, Match W. L. Ko, Chenjia Bai, Zhongliang Jiang |
-| 2026-09-12 | [GeomVLA: Unifying Scene, Motion, and Action in 3D](https://arxiv.org/abs/2609.13812) | Ziyin Xiong, Nikos Gkanatsios, Moritz Reuss, Katerina Fragkiadaki |
-| 2026-09-12 | [GROOVE: Geometry-Guided Reduction of Operational-Space Jerk in VLA Execution](https://arxiv.org/abs/2609.13695) | Sangho Yun, Minsoo Kim, Minwoo Cho, Hwanjo Yu |
-| 2026-09-12 | [How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026](https://arxiv.org/abs/2609.13679) | Jiaming Wang, Jizhuo Chen, Diwen Liu, Wang Song, Qiang Wang, Jie Ren, Chao Fu, Dingkun Zhu, Minchi Ruan, Hongtong Li, Yuhua Jiang, Zhiwei Xue, Yongping Pan, Harold Soh |
