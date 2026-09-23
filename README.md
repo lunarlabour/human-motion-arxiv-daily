@@ -1,10 +1,11 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-09-22. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-09-23. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
 | Updated | Title | Authors |
 | --- | --- | --- |
+| 2026-09-22 | [Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training](https://arxiv.org/abs/2609.26420) | Raphael Memmesheimer, Sven Behnke |
 | 2026-09-20 | [MoSAT: Human Motion Generation from Spatial Audio and Textual Description](https://arxiv.org/abs/2609.23797) | Shuyang Xu, Zhiyang Dou, Yiduo Hao, Zekun Li, Liang Pan, Jingbo Wang, Cheng Lin, Yuan Liu, Wenping Wang, Mingmin Zhao, Taku Komura |
 | 2026-09-19 | [MixiMotion: One-Step Text-to-Motion Generation via Asymmetric Set Distillation](https://arxiv.org/abs/2609.23010) | Hung Dinh, Binh Mai, Tran Quoc Bao Le, Lam Nguyen, Cong Tran |
 | 2026-09-19 | [AVTR-1: Open Stack for Real-Time Interactive Avatars](https://arxiv.org/abs/2609.22913) | Artem Kravtsov, Dmitrii Ziganshin, Vsevolod Poletaev, Gleb Balitskiy, Anastasia Tikhonova, Egor Burkov, Vadim Lebedev |
@@ -15,6 +16,21 @@
 
 | Updated | Title | Authors |
 | --- | --- | --- |
+| 2026-09-22 | [Imperfection for Precision: Upcycling Imperfect Data for High-Precision Robotic Manipulation](https://arxiv.org/abs/2609.26672) | Hao Wei, Yang Liu, Chao Tang, Shengbao Li, Jiangtao Chen, Jinxuan Zhu, Jiaheng Wang, Hong Yin, Zhaofeng Cao, Tingguang Li |
+| 2026-09-22 | [MATE: Multi-Agent Virtual Teleoperation Platform for Humanoid Collaboration Data Collection](https://arxiv.org/abs/2609.26520) | Yichuan Yu, Youzhuo Wang, Yiming Ren, Di Feng, Yexuan Yang, Bingxi Yang, Shengxiao Gong, Yujing Sun, Yuexin Ma |
+| 2026-09-22 | [RouteRLT: Learning When and Which RL Specialist Should Control a Vision-Language-Action Policy](https://arxiv.org/abs/2609.26467) | Chongyu Zhu, Jaden Hinds, Hyegang Kim, Juan Sebastian Rojas, Ramy Elmallah, Chi-Guhn Lee |
+| 2026-09-22 | [SafeLoop: Risk-Aware Rollback for Vision-Language-Action Manipulation](https://arxiv.org/abs/2609.26313) | Zeyu Lou, Tianran Zhang, Xinquan Yue, Ya Jing, Chenyang Si |
+| 2026-09-22 | [RoboTwin-Phys: Do WAMs and VLAs Understand the Physical World?](https://arxiv.org/abs/2609.26292) | Jiaqi Zhang, Feng Ye, Mingjia Yang, Zhihong Chen, Mingkang Xiang, Xinglin Yao, Yanbin Li, Siwei Ma, Chuanmin Jia |
+| 2026-09-22 | [An Action Is Worth One Patch: Unified World-Action Modeling with PatchWAM](https://arxiv.org/abs/2609.25961) | Tianheng Wang, Zhou Xie, Heng Jia, Jianhua Xu, Tong Zhang, Kaicheng Yu |
+| 2026-09-22 | [Beyond Reconstruction Error: Analytical and Data-Driven Action Tokenization for Autoregressive Vision-Language-Action Models](https://arxiv.org/abs/2609.25820) | Yuxin Yang, Gaohan He, Changxue Guan, Hangming Liu |
+| 2026-09-22 | [VisForce: Visual Grounding of Current and Desired Forces for Goal-Conditioned Dexterous Manipulation](https://arxiv.org/abs/2609.25785) | Jung-Woo Lee, Soo-Chul Lim |
+| 2026-09-22 | [MedVLA: A Hierarchical Vision-Language-Action Framework for Closed-Loop Precision Medical Robot Manipulation](https://arxiv.org/abs/2609.25756) | Junjie Xie, Chuxuan He, Angen Ye, Yujia Song, Dapeng Zhang |
+| 2026-09-22 | [Fisheye-VLA: Decoupling Coverage and Acuity for Manipulation with a Single Fisheye Camera](https://arxiv.org/abs/2609.25750) | Ziang Ren, Zike Yan, Raymond Zhang, Xuguo He, Zhongyu Li |
+| 2026-09-22 | [RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents](https://arxiv.org/abs/2609.25636) | Chang Guo, Yukun Xie, Bohan Tan, Zheng Chang, Zhaokai Yin, Qianli Ma, Yingqiao Wang, Chao Liang, Zhipeng Zhang |
+| 2026-09-22 | [MachEmbodied-U0: Unified Understanding and Generation Model for Embodied Intelligence](https://arxiv.org/abs/2609.25627) | Haoran Wen, Wenfu Wang, Kunsong Shi, Jingke Wang, Wancheng Feng, Yiren Zhang, Yueran Zhao, Xuancheng Zhang, Nanfei Ye, Xingru Chen, Zhaohong Sun, Chengmin Yang, Zikang Yu, Penghao Bi, Jia Shi, Yu Liu, Kun Zhan, Yan Xie |
+| 2026-09-22 | [CableVLA: Simulation-Privileged Global-Local Representation Learning for Cable Routing](https://arxiv.org/abs/2609.25606) | Zhifei Teng, Bo Feng, Xiang Zou, Jinpeng Xiao, Min Li, Zhouping Yin, Yiqun Li |
+| 2026-09-22 | [IndustrialVLA-Bench: A Traceable Multi-Axis Evaluation of Open Robot Policy Models](https://arxiv.org/abs/2609.25562) | Yiqi Wang, Zhifeng Rao, Jiaqi Zhang, Xiaoyang Li, Zhangkai Wu, Yiqun Duan, Mingkai Zheng, Fei Wang, Shan You, Taotao Cai |
+| 2026-09-22 | [HABILIS Brain 0: Geometry-Change Supervision for Vision-Language-Action and Residual Flow Recovery](https://arxiv.org/abs/2609.25558) | Jinu Pahk, Jesoon Kang, Taegeon Park, Jisu An, Soo Min Kimm, Jaejoon Kim, Byoung-Tak Zhang |
 | 2026-09-21 | [DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation](https://arxiv.org/abs/2609.24976) | Haoran Yuan, Zekai Wang, Boning Shao, Haoran Lu, Trevor Darrell, Ismini Lourentzou, Wei Zhan |
 | 2026-09-21 | [DualWAM: Dual-System World Action Models for Asynchronous Global Planning and Local Refinement](https://arxiv.org/abs/2609.24868) | Yixin Zheng, Jiangran Lyu, Yuntian Deng, Kai Liu, Yizhou Zhou, Yizhou Wang, Xiaoguang Zhao, He Wang, Zhizheng Zhang |
 | 2026-09-21 | [Beyond Visual Quality: A Study of Test-Time Planning with World Action Models](https://arxiv.org/abs/2609.24745) | Jianhao Yuan, Yu Yuan, Benjamin Ramtoula, Lukas Vierling, Paul Newman, Lars Kunze, Philip Torr, Daniele De Martini |
@@ -30,6 +46,8 @@
 | 2026-09-21 | [What Matters in Designing World Action Models: An Empirical Study](https://arxiv.org/abs/2609.24048) | Chao Tang, Haoqing Wang, Zilang Cen, Weishi Mi, Wei Xia, Fangcheng Liu, Anda Cheng, Yeqing Shen, Xiaohui Cui, Xiaoyuan Zhang, Yehui Tang, Tingguang Li |
 | 2026-09-21 | [Imagine-RL: Residual-Confidence-Guided Cross-Attention for World-Model-Augmented VLA Reinforcement Learning](https://arxiv.org/abs/2609.24033) | Kejia Hu, Wentong Zhai, Bo Zhao, Shuai Liang |
 | 2026-09-21 | [Opt2VLA: Force-Aware Vision-Language-Action for Contact-Rich Humanoid Whole-Body Manipulation](https://arxiv.org/abs/2609.23968) | Fukang Liu, Yipu Chen, Jaehwi Jang, Danfei Xu, Zsolt Kira, Ye Zhao |
+| 2026-09-21 | [VLAQuantBench: Closed-Loop Evaluation of Post-Training Quantization for Vision-Language-Action Models](https://arxiv.org/abs/2609.25376) | Jiuyi Xu, Qing Jin, Meida Chen, Song Wang, Yang Sui, Yangming Shi |
+| 2026-09-21 | [Capability-Aware Arbitration for Semantic Intent-Based Shared Control](https://arxiv.org/abs/2609.25369) | Zhaoda Du, Michael Bowman, Xiaoli Zhang |
 | 2026-09-20 | [Topology-Informed Visual Prompting For Vision Language Action Policies](https://arxiv.org/abs/2609.23944) | Haoyang Wu, Abhinav Kumar, Dmitry Berenson |
 | 2026-09-20 | [ReVeal: A Reconstruction-Aware Real-to-Sim Framework for VLA Policy Evaluation](https://arxiv.org/abs/2609.23910) | Xinyi Wang, Heng Hao, Wenjun Hu, Anna Enyu Li, Dizhi Ma, Karthik Ramani, Hankyu Moon, Yeong-Dae Kwon |
 | 2026-09-20 | [HapticWAM: Distilling Imagined Touch into a World-Action Model without Inference-Time Tactile Sensing](https://arxiv.org/abs/2609.23888) | Mikhail Sannikov, Ilya Mikhalchuk, Konstantin Gubernatorov, Petr Kovalev, Ogunwoye Faith Oluwatobi, Dzmitry Tsetserukou |
@@ -92,16 +110,3 @@
 | 2026-09-16 | [Causal-History Test-Time Scaling for Failure Recovery in Autoregressive World-Action Models](https://arxiv.org/abs/2609.18016) | Lin Li, Long Chen,  Kwunhang,  Wong, Jiaming Lei, Song Jin, Shucheng Du, Chuhan Zhang, Songchen Ma, Weihao Zhang, Jun Xiao,  Kwang-Ting,  Cheng |
 | 2026-09-16 | [FASA: Feedback-Aware Sampling Adaptation for Efficient Diffusion-Based VLA Models](https://arxiv.org/abs/2609.19475) | Yuchen Han, Jianhan Wu, Xiaoyang Qu, Lingwei Kong, Shiyi Li, Jianzong Wang |
 | 2026-09-16 | [Predict Before You Deploy: Offline Prediction of Quantization-Induced Task Degradation for World Action Models](https://arxiv.org/abs/2609.19441) | Jiuyi Xu, Jinjia Guo, Meida Chen, Jing Du, Yangming Shi |
-| 2026-09-15 | [DIDO: Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models](https://arxiv.org/abs/2609.15570) | Jing Lyu, Shuanghao Bai, Runze Xiao, Zhenyu Liao, Wenxing Tan, Zihan Tang, Ruochuan Shi, Cheng Peng, Yuheng Ji, Yihao Wang, Badong Chen, Pengwei Wang, Zhongyuan Wang, Xiaoguang Zhao |
-| 2026-09-15 | [Modality-Autoregressive World-Action Models](https://arxiv.org/abs/2609.17524) | Adam Hung, Bardienus P. Duisterhof, Deva Ramanan, Jeffrey Ichnowski |
-| 2026-09-15 | [XPACE: Joint World and Action Modeling from Heterogeneous Experience](https://arxiv.org/abs/2609.17372) | Jiacheng Wei, Jerry Bai, Xiaoyu Yue, Zidong Wang, Xiaoyang Guo, Cheng Chen, Fanqi Pu, Fan Wu, Zhixu Yue, Yizhuo Li, Feng Qiu, Bo Liu, Yuying Ge, Hui Zhou, Chenyi Chen, Yixiao Ge |
-| 2026-09-15 | [FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence](https://arxiv.org/abs/2609.17210) | Yinhao Li, Weixin Mao, Zihan Lan, Jikun Rong, Qirui Hu, Yiming Zhang, Weipeng Deng, Bowen Shen, Minzhao Zhu, Yiming Mao, Yan Yang, Chenguang Cui, Hongyuan Chen, Xu Huang, Zheyi Zhao, Pinxi Shen, Bozhen He, Zhen Fu, Yifan Wang, Zexin Zhang, Ang Gao, Haoyu Chen, Chengqi Shi, Hua Chen |
-| 2026-09-15 | [Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement](https://arxiv.org/abs/2609.17115) | Tobias Schaffer, Mohab Elkhayat, Daniela Nicklas, Mustafa Almohamad, Elham Al-Fuqara |
-| 2026-09-15 | [GeoLAM: Learning Geometry-Grounded Latent Actions from Unlabeled Human Videos](https://arxiv.org/abs/2609.17099) | Yifan Xie, Hekun Tian, Jinkun Liu, YuAn Wang, Qiao Sun, Wenbo Ding |
-| 2026-09-15 | [SWIM: Vision-Language-Grounded Soft Whole-Body Interactive Manipulation](https://arxiv.org/abs/2609.17035) | Tingcong Liu, Aye Phyu Phyu Aung, Junjie Xiong, Siyi Ma, Bo An, Ke Wu, Senthilnath Jayavelu |
-| 2026-09-15 | [sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader](https://arxiv.org/abs/2609.17021) | Gopi Krishna Erabati, Bjarne Johannsen, Angus Stewart, Vardeep Singh Sandhu |
-| 2026-09-15 | [TEMPO: Learning Temporal Context for Dynamic Robot Manipulation](https://arxiv.org/abs/2609.16864) | Zhenyang Feng, Jimin Heo, Erik B. Sudderth, Unnat Jain |
-| 2026-09-15 | [The Robot Data Factory](https://arxiv.org/abs/2609.16705) | Sami Haddadin, Ivan Laptev, Ian Reid, Dezhen Song, Cesare Stefanini, Abdalla Swikir, Xingxing Zuo, Lyes Saad Saoud, Mahmoud Hamandi, Mohamed Heshmat, Oualid Doukhi, Abdeldjallil Naceri, Attique Bashar, Abdelrahim Mohamed, Teodor Tomic, Yue Peng, Samuel Schneider, Cheng-Chung Lee, Janine Guo, Qinghao Zhang, Kim Jeffery |
-| 2026-09-15 | [WholeBodyWAM: Generalizing Pre-trained World-Action Priors to Humanoid Loco-Manipulation via WBC-Grounded Coordination](https://arxiv.org/abs/2609.16644) | Zhuo Li, Yiming Yao, Jim Tan, Mengjie Jing, Zhipeng Dong, Fei Chen |
-| 2026-09-15 | [SAVLA: Symmetry-Aware Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2609.16641) | Junle Li, Weixian Waylon Li, Fuxiang Wu, Fusheng Hao, Fengxiang He |
-| 2026-09-15 | [Dense to MoE Adaptation for Compact Vision Language Action Policies](https://arxiv.org/abs/2609.16503) | Muchun Niu, Shuang Chen, Yuzhou Wu, Linfeng Zhang |
