@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-09-26. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-09-27. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -9,8 +9,6 @@
 | 2026-09-24 | [BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video](https://arxiv.org/abs/2609.29850) | Tianyu Xiong, Yi Lu, Jinrui Wang, Ziqi Liang, Dandan Lei, Xiaoyang Zhou, Xiao-xiao Long, Qiu Shen, Xun Cao |
 | 2026-09-22 | [Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training](https://arxiv.org/abs/2609.26420) | Raphael Memmesheimer, Sven Behnke |
 | 2026-09-20 | [MoSAT: Human Motion Generation from Spatial Audio and Textual Description](https://arxiv.org/abs/2609.23797) | Shuyang Xu, Zhiyang Dou, Yiduo Hao, Zekun Li, Liang Pan, Jingbo Wang, Cheng Lin, Yuan Liu, Wenping Wang, Mingmin Zhao, Taku Komura |
-| 2026-09-19 | [MixiMotion: One-Step Text-to-Motion Generation via Asymmetric Set Distillation](https://arxiv.org/abs/2609.23010) | Hung Dinh, Binh Mai, Tran Quoc Bao Le, Lam Nguyen, Cong Tran |
-| 2026-09-19 | [AVTR-1: Open Stack for Real-Time Interactive Avatars](https://arxiv.org/abs/2609.22913) | Artem Kravtsov, Dmitrii Ziganshin, Vsevolod Poletaev, Gleb Balitskiy, Anastasia Tikhonova, Egor Burkov, Vadim Lebedev |
 
 ## Vision-Language-Action (VLA)
 
