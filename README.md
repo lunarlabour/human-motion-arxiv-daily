@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-10-02. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-10-03. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -16,8 +16,6 @@
 | 2026-09-28 | [MotionSpaceFlow: Representation-Aware Flow Matching in Direct Motion Space](https://arxiv.org/abs/2609.34190) | Qing Yu, Kent Fujiwara |
 | 2026-09-27 | [SocialHumanoid: Towards Expressive Humanoid Behavior via One-Step Co-Speech Motion Generation](https://arxiv.org/abs/2609.33311) | Chengqun Yang, Tengjie Zhu, Liang Xu, Fulong Liu, Guanzhu Ren, Yitong Xing, Xuefeng Lu, Fei Shi, Siyuan Fan, Weijie Dong, Yao Mu, Xiaokang Yang, Yichao Yan |
 | 2026-09-26 | [MotionMaestro: Masked Tokenization for Unified Motion Generation](https://arxiv.org/abs/2609.37495) | Yun Chen, Munchurl Kim, Jeonghyeok Do |
-| 2026-09-25 | [Motion Style Slider: Endpoint-Supervised Continuous Style Control for Human Motion Diffusion](https://arxiv.org/abs/2609.30795) | Chen-Chieh Liao, Yichen Peng, Yiyi Cai, Yûi Ono, Hiroki Hanaoka, Erwin Wu, Hideki Koike, Shuichi Kurabayashi |
-| 2026-09-25 | [Timo: $\textbf{T}$aming Mult$\textbf{i}$modal Diffusion Transformer for Human $\textbf{Mo}$tion Generation](https://arxiv.org/abs/2609.30761) | Zhao Wang, Jiangtao Hu, Jack Yu, Tao Yu |
 
 ## Human-Object Interaction (HOI)
 
@@ -111,13 +109,3 @@
 | 2026-09-28 | [Adjoint Guidance Flow: Amortized Critic Guidance for VLA Policies](https://arxiv.org/abs/2609.34944) | Jeongsol Kim, Youngjun Jun, Kyumin Choi, Youngmin Kim, Seonghyun Jin, Sunwoo Park, Jangho Park, Kwanyoung Kim, Jong Chul Ye |
 | 2026-09-28 | [Don't Throw Away the Tail: Action Upcycling for Policy Acceleration](https://arxiv.org/abs/2609.34911) | Taesung Kwon, Jangho Park, Sunwoo Park, Youngmin Kim, Seonghyun Jin, Youngjun Jun, Kyumin Choi, Jong Chul Ye |
 | 2026-09-28 | [ECHO: Event-Augmented Context with Hindsight and Outlook for Wrist-Only Manipulation](https://arxiv.org/abs/2609.34893) | Xinyue Wang, Yicheng Jiang, Zesen Gan, Junhao He, Jiaxu Wang, Junhao Li, Jingtao Zhang, Tianlun He, Jianan Wang, Isabel Guan, Qiming Shao |
-| 2026-09-25 | [InternW0-$Δ$: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data](https://arxiv.org/abs/2609.31394) | Xingyu Miao, Zizun Li, Baole Fang, Kaiwen Song, Tenghui Wang, Hanxue Zhang, Yating Wang, Xudong Li, Yuping He, Xueyuan Wei, Chao Gao, Xijie Yang, Yingxiang Xu, Kerui Ren, Wenqi Guo, Jianjun Zhou, Xinzhe Wang, Weiguang Zhao, Ni Yang, Zetao Cai, Yufei Xue, Hengjie Li, Zeyu He, Yuanzhen Zhou, Rong Fu, Jianyang Zhang, Siwei Cui, Fuxian Huang, Yunsong Zhou, Xing Gao, Yifei Yao, Qiaojun Yu, Kailin Li, Ming Zhou, Mu Huang, Xinyue Li, Wenze Cui, Bingqi Jiang, Xueyue Zhu, Junting Dong, Haoyu Guo, Tao Lu, Mulin Yu, Bowen Zhou, Bin Zhao, Tianfan Xue, Weinan Zhang, Chunhua Shen |
-| 2026-09-25 | [Towards VLA-Dreamer: Refining VLA Behavior Using World Models](https://arxiv.org/abs/2609.31313) | Parsa Mastouri Kashani, Jan-Gerrit Habekost, Stefan Wermter |
-| 2026-09-25 | [Kintsugi-VLA: Turning Failed Robot Rollouts into Recovery Data through Interventional Recoverability](https://arxiv.org/abs/2609.31048) | Ivan Snegirev, Elizaveta Semenyakina, Dmitrii Maliukov, Miguel Altamirano Cabrera, Dzmitry Tsetserukou |
-| 2026-09-25 | [The Linear Representation Hypothesis for Vision-Language-Action Models](https://arxiv.org/abs/2609.30996) | Minseok Jeong, Hyewon Choi, Hiroyasu Tsukamoto, SooJean Han |
-| 2026-09-25 | [FRAM: Trajectory-Guided Visual Feature Selection for Compact Language-Conditioned Robot Manipulation](https://arxiv.org/abs/2609.30965) | Hiroshi Ito, Hyogo Hiruma, Yoshiki Kanai, Takahiro Yoshida, Akira Kanazawa, Hiroki Yamada |
-| 2026-09-25 | [Causeway: Restoring Task Accessibility for Instruction Switching in VLA Policies](https://arxiv.org/abs/2609.30913) | Qingzi Wang, Kaixi Feng, Guangyao Shi, Xiyang Wu, Ang Li, Dinesh Manocha |
-| 2026-09-25 | [VLaRL: Augmenting Vision-Language-Action Models with Simulation-Trained Latent-Conditioned Residual RL](https://arxiv.org/abs/2609.30868) | Namiko Saito, Kinam Kim, Heecheol Kim, Katsushi Ikeuchi, Yasuyuki Matsushita |
-| 2026-09-25 | [Fast Plans, Faithful Actions: Closing the Planning-Execution Gap in Hierarchical Vision-Language-Action Models](https://arxiv.org/abs/2609.30833) | Chuanliang Xie, Boyu Ma, Gen Li, Yizhou Liu, Houwang Chen, Xinyu Zhou, Jianfei Yang |
-| 2026-09-25 | [NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation](https://arxiv.org/abs/2609.30770) | Xijie Huang, Yongyang Wan, Chengbin Dong, Zimo Ding, Mo Zhu, Yijin Wang, Zhiyang Liu, Fei Gao, Yuze Wu, Xin Zhou |
-| 2026-09-25 | [VLALight: Lightweight Vision-Language-Action Models for Emergency-Aware Traffic Signal Control](https://arxiv.org/abs/2609.30709) | Kemou Jiang, Maonan Wang, Xingchen Zou, Jiayue Zhu, Yuhang Fu, Sicheng Wang, Xi Chen, Yirong Chen, Zhiyong Cui |
