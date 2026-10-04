@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-10-03. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-10-04. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -15,7 +15,6 @@
 | 2026-09-28 | [HUMAN-TCI: Hierarchical Multi-Stream Motion-Aware Network with Torso-Centered Interaction for Text-to-Motion Retrieval](https://arxiv.org/abs/2609.34430) | Muhammad Islam, Euijoon Ahn, Usman Naseem, Tao Huang |
 | 2026-09-28 | [MotionSpaceFlow: Representation-Aware Flow Matching in Direct Motion Space](https://arxiv.org/abs/2609.34190) | Qing Yu, Kent Fujiwara |
 | 2026-09-27 | [SocialHumanoid: Towards Expressive Humanoid Behavior via One-Step Co-Speech Motion Generation](https://arxiv.org/abs/2609.33311) | Chengqun Yang, Tengjie Zhu, Liang Xu, Fulong Liu, Guanzhu Ren, Yitong Xing, Xuefeng Lu, Fei Shi, Siyuan Fan, Weijie Dong, Yao Mu, Xiaokang Yang, Yichao Yan |
-| 2026-09-26 | [MotionMaestro: Masked Tokenization for Unified Motion Generation](https://arxiv.org/abs/2609.37495) | Yun Chen, Munchurl Kim, Jeonghyeok Do |
 
 ## Human-Object Interaction (HOI)
 
