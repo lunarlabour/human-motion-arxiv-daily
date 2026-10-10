@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-10-09. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-10-10. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -12,10 +12,6 @@
 | 2026-10-07 | [DynaConTalk: Wavelet-Constrained Diffusion for Long-Form and Controllable Holistic Co-Speech 3D Motion](https://arxiv.org/abs/2610.09846) | Yifei Zhu, Yangyang Cai, Mingyi Shi, Miao Cheng, Lin Gu, Taku Komura, Yoshifumi Kitamura |
 | 2026-10-04 | [How Does Geometry Enter Generated Motion?](https://arxiv.org/abs/2610.05135) | Weihan Li, Junhao Wu, Yuhan Song, Xiaofeng Lin, Xinlei Chen |
 | 2026-10-03 | [TAME:Topology-Aware Text-Driven Motion Editing across Heterogeneous Humanoid Skeletons](https://arxiv.org/abs/2610.04529) | Qichen Zheng, Siyuan Yang, Chong Wang, Jun Liu, Shijian Lu, Alex Kot, Kwok-Yan Lam |
-| 2026-10-02 | [FlowHMR: Physically Plausible Motion Capture from Video](https://arxiv.org/abs/2610.03691) | Zhanke Wang, Chengfeng Zhao, Qing Shuai, Jingzhong Lin, Heng Li, Zeyu Ling, Yuxin Wen, Jing Li, Di Kang, Chunchao Guo, Linchao Bao |
-| 2026-10-02 | [Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model](https://arxiv.org/abs/2610.03047) | Yunjiao Zhou, Junlang Qian, Lihua Xie, Jianfei Yang |
-| 2026-10-02 | [Rethinking Fixed Temporal Grids: Frequency-Disentangled Motion Generation](https://arxiv.org/abs/2610.03012) | Yunjiao Zhou, Junlang Qian, Gen Li, Xinying Guo, Lihua Xie, Jianfei Yang |
-| 2026-10-02 | [Streaming Multi-Track Timeline Control for 3D Human Motion Generation](https://arxiv.org/abs/2610.03873) | Yangsong Zhang, Anujith Muraleedharan, Rikhat Akizhanov, Gül Varol, Fabio Pizzati, Ivan Laptev |
 
 ## Human-Object Interaction (HOI)
 
@@ -110,16 +106,3 @@
 | 2026-10-04 | [When Does Retrieval Help? A Study of In-Context Adaptation in Vision-Language-Action Models](https://arxiv.org/abs/2610.05492) | Zixuan Liu, Joris Köster, Zizhan Zheng, Siavash Khajavi |
 | 2026-10-04 | [FLEX-WAM: Flexible Block-Causal World-Action Models for Long-Horizon Imagination and Planning](https://arxiv.org/abs/2610.05483) | R. Khorrambakht, Joseph Amigo, Félix Lebel, Leon Seetoo, Jean Ponce, Zhenzhen Li, Ludovic Righetti |
 | 2026-10-04 | [EvoMem-VLA: State-Evolution Memory for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2610.05418) | Yuheng Na, Zhide Zhong, Junjie He, Junfeng Li, Haodong Yan, Jiaan Wang, Jiaguan Zhu, Yangyang Zheng, Tianyu Huang, Haoang Li |
-| 2026-10-02 | [XGenAct: Geometry-Enhanced World Action Models through Cross-Task Generation](https://arxiv.org/abs/2610.03516) | Tingting Du, Ziyao Wang, Guoheng Sun, Ang Li |
-| 2026-10-02 | [Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](https://arxiv.org/abs/2610.03498) | Yukiya Horiba, Koshiro Aoki, Shunsuke Yasuki, Bum Jun Kim, Taiki Miyanishi |
-| 2026-10-02 | [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2610.03476) | Chenzhi Liu, Yue Zhang, Jiehong Lin, Jianan Wang, Bo Wang, Zhongrui Wang, Xiaojuan Qi |
-| 2026-10-02 | [Native Action-Prior Learning from Videos for World Action Models](https://arxiv.org/abs/2610.03391) | Zhaochong An, Fei Zhang, Menglin Jia, Duncan Frost, Zijian Zhou, Yikai Wang, Xudong Wang, Aditya Patel, Belinda Zeng, Tao Xiang, Serge Belongie, Amir Bar, Sen He |
-| 2026-10-02 | [MixVLA: Adaptive Mixing of Non-Invariant Information for Generalizable Vision-Language-Action Models](https://arxiv.org/abs/2610.02898) | Pingrui Zhang, Yu Zhang, Pengyuan Wu, Bin Wang, Haoming Song, Xianqiang Gao,  ZhaxiZhuoma, Zhigang Wang, Dong Wang, Bin Zhao, Xuelong Li |
-| 2026-10-02 | [PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation](https://arxiv.org/abs/2610.02840) | Chunghyun Park, Beomjun Kim, Seungcheol Park, Heeseung Kwon, Yashu Shukla, Seunghoon Sim, Jinwoo Shin, Minsu Cho |
-| 2026-10-02 | [FastOPD: On-Policy Distillation for Lightweight VLA Deployment](https://arxiv.org/abs/2610.02832) | Yoojin Oh, Jeongsol Kim, Yeonwoo Seo, Jangho Park, Seonghyun Jin, Sunwoo Park, Youngmin Kim, Youngjun Jun, Kyumin Choi, Jong Chul Ye |
-| 2026-10-02 | [SARI: Phase-Split Sim-Real Co-Training for Contact-Rich Manipulation](https://arxiv.org/abs/2610.02804) | Xingxin He, Yuxuan Jiang, Haonan Zhang, Chuhan Cui, Kaile Li, Zhongxing Zheng, Caihao Xu, Ziqi Wang |
-| 2026-10-02 | [ManiPhysicsBench: Physics-Based Assessment of Object Preservation in VLA Manipulation](https://arxiv.org/abs/2610.02802) | Sangwu Park, Yeonjun In, Wonjoong Kim, Sungwon Kim, Sein Kim, Chanyoung Park |
-| 2026-10-02 | [SimpleTouch: Can Vision-Language-Action Models Master Contact-Rich Manipulation Without Tactile Policy Pretraining?](https://arxiv.org/abs/2610.02784) | Chen Yang, Linzhe Shi, Changjie Wu, Hang Zhang, Ronghan Chen, Lingjun Zhang, Xu Hu, Mu Xu, Jiansheng Fan, Chen Wang |
-| 2026-10-02 | [RoboBridge: A Self-Evolving Embodied Agent Framework for Sim-to-Real Transfer](https://arxiv.org/abs/2610.02717) | Chenxi Li, Zhangrui Zhao, Rui Li, Yuan Gao, Kehui Liu, Jiarui Li, Dong Wang, Tong Si, Minting Pan, Wanli Ouyang, Dongzhan Zhou |
-| 2026-10-02 | [CHASE-VLA: Post-Training Quantization Framework for Vision-Language-Action Models with Chunk-Aware Scale Estimation](https://arxiv.org/abs/2610.02666) | Jin Hyun, Jung Gyu Min, Gyuhyun Jung, Youngjoo Lee |
-| 2026-10-02 | [Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination](https://arxiv.org/abs/2610.02626) | Shenglan Li, Zhendong Mi, Hengyi Zhu, Jingwu Luo, Chun Kit Chan, Geng Yuan, Yanzhi Wang, Pu Zhao, Shaoyi Huang |
