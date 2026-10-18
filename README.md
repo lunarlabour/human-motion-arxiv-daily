@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-10-17. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-10-18. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -7,7 +7,6 @@
 | --- | --- | --- |
 | 2026-10-12 | [Stop My Dancing! Understanding, Detecting and Attributing Motion-Aware Deepfake Videos](https://arxiv.org/abs/2610.11496) | Fazhong Liu, Yan Meng, Tian Dong, Guoxing Chen, Haojin Zhu |
 | 2026-10-12 | [ProMoDD: Dataset Distillation for 3D Human Motion via Prototype-Conditioned Diffusion Models](https://arxiv.org/abs/2610.16134) | Yijin Wei, Yawen Zou, Wenqi Cai, Guang Li, Hangli Ge, Katsuya Hotta, Chunzhi Gu, Chao Zhang |
-| 2026-10-10 | [Learning Dynamic Grasping](https://arxiv.org/abs/2610.14848) | Nga Kiu Kelly Ho, Yilin Liu, Hao Xu, Niloy J. Mitra |
 
 ## Human-Object Interaction (HOI)
 
