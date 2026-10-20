@@ -1,23 +1,50 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-10-19. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-10-20. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
 | Updated | Title | Authors |
 | --- | --- | --- |
-| 2026-10-12 | [Stop My Dancing! Understanding, Detecting and Attributing Motion-Aware Deepfake Videos](https://arxiv.org/abs/2610.11496) | Fazhong Liu, Yan Meng, Tian Dong, Guoxing Chen, Haojin Zhu |
-| 2026-10-12 | [ProMoDD: Dataset Distillation for 3D Human Motion via Prototype-Conditioned Diffusion Models](https://arxiv.org/abs/2610.16134) | Yijin Wei, Yawen Zou, Wenqi Cai, Guang Li, Hangli Ge, Katsuya Hotta, Chunzhi Gu, Chao Zhang |
+| 2026-10-19 | [Streaming Multi-Track Timeline Control for 3D Human Motion Generation](https://arxiv.org/abs/2610.03873) | Yangsong Zhang, Anujith Muraleedharan, Rikhat Akizhanov, Gül Varol, Fabio Pizzati, Ivan Laptev |
+| 2026-10-19 | [InteractAgent: Agentic Human Motion Interaction with Memory-Augmented Reflection](https://arxiv.org/abs/2610.25649) | Tao Zhang, Senhe Zhang, Zeyu Zhang, Yujia Zhang, Dong Gong |
+| 2026-10-17 | [MOMO: Human Motion from Moving Sounds](https://arxiv.org/abs/2610.24522) | Deli Cai, Shuyang Xu, Zhiyang Dou, Zitong Lan, Mingmin Zhao, Changxing Ding, Taku Komura |
+
+## Human-Scene Interaction (HSI)
+
+| Updated | Title | Authors |
+| --- | --- | --- |
+| 2026-10-19 | [InteractAgent: Agentic Human Motion Interaction with Memory-Augmented Reflection](https://arxiv.org/abs/2610.25649) | Tao Zhang, Senhe Zhang, Zeyu Zhang, Yujia Zhang, Dong Gong |
 
 ## Human-Object Interaction (HOI)
 
 | Updated | Title | Authors |
 | --- | --- | --- |
-| 2026-10-12 | [MFlowHOI: Whole-Body Human-Object Interaction Generation via Part-Aware MeanFlow](https://arxiv.org/abs/2610.16252) | Qiang He, Yonghao Zhang, Yinda Zhang, Chenyu Meng, Liufei Ouyang, Haoxiang Hu, Cangjun Gao, Xiaoming Deng, Cuixia Ma, Hongan Wang |
+| 2026-10-16 | [ULIFLOW: Unified Latent Human-Object Interaction Flow](https://arxiv.org/abs/2610.24286) | Wenqi Cai, Chunzhi Gu, Weichen Zhou, Yawen Zou, Yijin Wei, Ran Dong, Haoran Xie, Chao Zhang |
 
 ## Vision-Language-Action (VLA)
 
 | Updated | Title | Authors |
 | --- | --- | --- |
+| 2026-10-19 | [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://arxiv.org/abs/2610.26855) | Tianqi Liu, Hanfei Zhao, Qifeng Liang, Hui En Pang, Jiarui Xu, Sayang Mu, Penghao Qiu, YingSheng Zhang, Jun Wang, Ziang Cao, Mingze Sun, Yukang Cao, Fangzhou Hong, Zhaoxi Chen, Ziwei Liu |
+| 2026-10-19 | [PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models](https://arxiv.org/abs/2610.26813) | Yude Zou, Yifei Yao, Guanbo Jiao, Jianming Ma, Guanjie Zheng, Xing Gao |
+| 2026-10-19 | [HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation](https://arxiv.org/abs/2610.26765) | Tianwei Luo, Yiming He, Hongjin Wu, Ting Pan, Debin Ren, Haorui Guo, Junlin Yang, Yuxin Zuo, Zhehao Kou, Kaisen Yang, Zhuoqun Lai, Yi Ding, Jiale Yu, Yuchen Zhang, Zijie Qiu, Haozhan Li, Ning Ding |
+| 2026-10-19 | [Robot Learning with Vision-Language-Action Models for Agricultural Manipulation](https://arxiv.org/abs/2610.26717) | Hamid Hafezi, Javad Mohammadpour Velni, Mohammadreza Davoodi |
+| 2026-10-19 | [HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control](https://arxiv.org/abs/2610.26584) | Langzhe Gu, Chengkai Hou, Meng Li, Xinhua Wang, Xinyuan Lv, Shuanghao Bai, Guangrun Li, Jingyang He, Ziluo Ding, Zhiyuan Xu, Ning Ding, Kuan Cheng, Jian Tang, Shanghang Zhang, Zhengping Che |
+| 2026-10-19 | [PrismWAM: Decoupling State Representations in World Action Models](https://arxiv.org/abs/2610.26564) | Tianyu Xin, Wanqi Zhong, Bowen Hu, Zhangchi Guo, Lijie Wang, Yiming Wang, Haoran Liao, Heyang Yu, Xiaoyu Tian, Zhiding Yu, Yiming Li |
+| 2026-10-19 | [SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models](https://arxiv.org/abs/2610.26487) | Shenli Zheng, Zhou Fang, Yuan Du, Yijiang Liu, Li Du |
+| 2026-10-19 | [ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning](https://arxiv.org/abs/2610.26455) | Zechen Wang, Zhenqi Qiu, Houlong Xiong, Suohang Zhang, Yiyu Ren, Wanting Xu, Hongfei Niu, Chengyang He, Ge Sun, Ran Cheng, Qian Zhu |
+| 2026-10-19 | [Robotic Photography System based on Vision-Language-Action Model](https://arxiv.org/abs/2610.26287) | Song-Li Wu, Chubin Zhang, Wenbo Ding, Yansong Tang |
+| 2026-10-19 | [FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation](https://arxiv.org/abs/2610.25981) | Jiaju He, Zhiyuan Yang, Ruyang Han, Jiahong Tang, Zhiping Lin, Haiyue Zhu |
+| 2026-10-19 | [PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models](https://arxiv.org/abs/2610.25961) | Hojin Jeon, Jimin Lee, Taekwan Kim, Nayoung Oh, Taeyoung Kim, Myungkyu Koo, Jinmo Koo, Joonwoo Ahn, Jinwoo Shin |
+| 2026-10-19 | [CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA](https://arxiv.org/abs/2610.25927) | Feiyang Hong, Yujie Wei, Bo Zhao, Xiu Su, Hongxun Yao, Shuo Yang |
+| 2026-10-19 | [Vision-Language-Delta-Action: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation](https://arxiv.org/abs/2610.25874) | Lingsen Zhang, Wei Li, Jie He, Henghua Zhang, Kai Mo, Shiyong Li, Yanpeng Wang, Rui Shao |
+| 2026-10-19 | [TrajWAM: An Efficient Trajectory-Guided World Action Model for Dynamic Robotic Manipulation](https://arxiv.org/abs/2610.25763) | Haohan Geng, Sha Zhang, Weishuo Sun, Guanting Ye, Wenhao Yu, Yuang Xie, Qicheng Zeng, Peng Ye, Jiajun Deng, Jianmin Ji |
+| 2026-10-19 | [Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving](https://arxiv.org/abs/2610.25734) | Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen |
+| 2026-10-19 | [Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation](https://arxiv.org/abs/2610.25600) | Xuezhou Xu, Chung-Pang Wang, Zhenzhen Li, Benjamin Riviere |
+| 2026-10-18 | [AQUAACT: A Joystick-Level Underwater Teleoperation Dataset and Closed-Loop Benchmark](https://arxiv.org/abs/2610.25534) | Zhenqi Wu, Trung Tien Dong, Aditya Penumarti, Mohamed A. Fouad, Menna A. Fouad, Mingyang Mao, Jane Jaejeong Shin, Xiaomin Lin |
+| 2026-10-18 | [BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks](https://arxiv.org/abs/2610.25459) | Yong Wang, Kecheng Zheng, Xing Zhu, Chao Xu, Yujun Shen, Shengze Cai |
+| 2026-10-18 | [AeroDASH: Asynchronous Vision-Language-Action Control for Continuous UAV Flight](https://arxiv.org/abs/2610.25407) | Zhe Liu, Yuxuan Zheng, Jinzhe Qin, Ziqi Gao, Boyu Zhou |
+| 2026-10-18 | [VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](https://arxiv.org/abs/2610.25043) | Sicheng He, Yi Pan, Qiuting Yu, Jiaming Huang, Qi Lu, Shuyan Wu, Hongyan Feng, Xuanyu Liu, Jun Zhang, Jie Zhang, Wenqi Zhang, Xuhong Zhang, Jianwei Yin |
 | 2026-10-16 | [Enhancing Visual Task-Redirection Attacks on Vision-Language-Action Models via Closed-Loop Optimization](https://arxiv.org/abs/2610.23566) | Chunjin Ye, Guanying Chen, Jianjie Huang, Jianhao Chen, Quanlin Chen, Hanjie Zhao, Haozhe Liang, Tieyun Qian, Xiaochun Cao |
 | 2026-10-16 | [AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation](https://arxiv.org/abs/2610.23396) | Jiawei Geng, Zhenyang Liu, Yuzheng Wu, Yanwei Fu |
 | 2026-10-16 | [Look Before You Act: Bridging Active Perception and Vision-Language-Action Models via Observation-Aligned Data Adaptation](https://arxiv.org/abs/2610.23378) | Jiawei Geng, Zhenyang Liu, Yuzheng Wu, Yongchong Gu, Yanwei Fu |
