@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-10-23. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-10-24. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -25,7 +25,6 @@
 | Updated | Title | Authors |
 | --- | --- | --- |
 | 2026-10-19 | [BUMP: Body-driven Unified Multi-object Physics for HOI Synthesis](https://arxiv.org/abs/2610.27066) | Wonjung Woo, Hyeonwoo Kim, Hanbyul Joo |
-| 2026-10-16 | [ULIFLOW: Unified Latent Human-Object Interaction Flow](https://arxiv.org/abs/2610.24286) | Wenqi Cai, Chunzhi Gu, Weichen Zhou, Yawen Zou, Yijin Wei, Ran Dong, Haoran Xie, Chao Zhang |
 
 ## Vision-Language-Action (VLA)
 
@@ -96,15 +95,3 @@
 | 2026-10-18 | [BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks](https://arxiv.org/abs/2610.25459) | Yong Wang, Kecheng Zheng, Xing Zhu, Chao Xu, Yujun Shen, Shengze Cai |
 | 2026-10-18 | [AeroDASH: Asynchronous Vision-Language-Action Control for Continuous UAV Flight](https://arxiv.org/abs/2610.25407) | Zhe Liu, Yuxuan Zheng, Jinzhe Qin, Ziqi Gao, Boyu Zhou |
 | 2026-10-18 | [VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](https://arxiv.org/abs/2610.25043) | Sicheng He, Yi Pan, Qiuting Yu, Jiaming Huang, Qi Lu, Shuyan Wu, Hongyan Feng, Xuanyu Liu, Jun Zhang, Jie Zhang, Wenqi Zhang, Xuhong Zhang, Jianwei Yin |
-| 2026-10-16 | [Enhancing Visual Task-Redirection Attacks on Vision-Language-Action Models via Closed-Loop Optimization](https://arxiv.org/abs/2610.23566) | Chunjin Ye, Guanying Chen, Jianjie Huang, Jianhao Chen, Quanlin Chen, Hanjie Zhao, Haozhe Liang, Tieyun Qian, Xiaochun Cao |
-| 2026-10-16 | [AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation](https://arxiv.org/abs/2610.23396) | Jiawei Geng, Zhenyang Liu, Yuzheng Wu, Yanwei Fu |
-| 2026-10-16 | [Look Before You Act: Bridging Active Perception and Vision-Language-Action Models via Observation-Aligned Data Adaptation](https://arxiv.org/abs/2610.23378) | Jiawei Geng, Zhenyang Liu, Yuzheng Wu, Yongchong Gu, Yanwei Fu |
-| 2026-10-16 | [Beyond Success Rate: Interventional Evaluation of Memory in Vision-Language-Action Systems](https://arxiv.org/abs/2610.23372) | Keyuan Luo, Yi Xie, Wanyun Ling, Yuanzhe Li, Ziyue Li, Zhuoqi Zeng |
-| 2026-10-16 | [LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence](https://arxiv.org/abs/2610.23334) | Jiajun Cao, Kai Tang, Bohua Zhang, Zezhong Qian, Ying Li, Xiaozhu Ju, Xiaobao Wei, Jiaming Liu, Yang Ding, Sixiang Chen, Yiding Sun, Siyuan Qian, Tinghao Wang, Jixian Wu, Yichen Guo, Yi Zhang, Shilong Zou, Yong Dai, Jian Tang, Shanghang Zhang |
-| 2026-10-16 | [From Sliding Windows to Self-evolving Lifelong Memory: A Dual-perspective Survey of Memory Paradigms for Long-Horizon Robotics VLA Models](https://arxiv.org/abs/2610.23319) | Yong Wang, Boyu Shen, Xinwei Zhang, Yizheng Li, Keyuan Luo |
-| 2026-10-16 | [CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots](https://arxiv.org/abs/2610.23288) | Zicheng Liu, Haochen Wu, Jiawei He, Suyun Zhao, Huan Yang, Cheng Chi, Hao Tang |
-| 2026-10-16 | [NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models](https://arxiv.org/abs/2610.23271) | Guodong Du, Wanyu Lin |
-| 2026-10-16 | [GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation](https://arxiv.org/abs/2610.23123) | Zeyuan Ren, Guanxun Zhao, Qi Li, Hao Wang, Wenlong Liao, Keyi Luo, Xijing Zhang, Zhiyuan Zhang, Jingye Cui, Qibin Gu, Zhichen Wang, Yucheng Hu, Liqiao Xia, Nan Bu, Zhengde Ma, Rankun Li, Xue Yang, Wende Xie |
-| 2026-10-16 | [Unifying Embodied Foundation Models via a Model-to-Policy Formulation](https://arxiv.org/abs/2610.23053) | Xinyi Hong, Mingyang Ren |
-| 2026-10-16 | [VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents](https://arxiv.org/abs/2610.23018) | Chenglong Zhang, Shuaijun Liu, Feiyang You, Shuyang Hao, Chengyu Wu, Ningxin Su |
-| 2026-10-16 | [MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models](https://arxiv.org/abs/2610.22951) | Khuyen Pham, Tran Nguyen Le, Edoardo Fazzari, Cesare Stefanini |
