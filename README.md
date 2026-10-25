@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-10-24. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-10-25. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -11,7 +11,6 @@
 | 2026-10-20 | [Learn to Modify: Self-evolving Multi-agent Refinement Framework for Conversational Text-to-Motion Generation](https://arxiv.org/abs/2610.28210) | Jianan Li, Jiawei Zhao, Yangtao Zhou, Zhifu Zhao, Shaoxin Wu, Yutao Wang, Dezhen Wang, Hua Chu, Fu Li |
 | 2026-10-20 | [Gaze2HOI: Gaze-Aware Intention Disambiguation for Egocentric Hand-Object Interaction Forecasting](https://arxiv.org/abs/2610.27877) | Chuanyang Ma, Chenye Wang, Yixuan Wang, Huiling Zhou, Xingqun Qi, Muyi Sun, Man Zhang, Caifeng Shan, Zhenan Sun |
 | 2026-10-19 | [Streaming Multi-Track Timeline Control for 3D Human Motion Generation](https://arxiv.org/abs/2610.03873) | Yangsong Zhang, Anujith Muraleedharan, Rikhat Akizhanov, Gül Varol, Fabio Pizzati, Ivan Laptev |
-| 2026-10-17 | [MOMO: Human Motion from Moving Sounds](https://arxiv.org/abs/2610.24522) | Deli Cai, Shuyang Xu, Zhiyang Dou, Zitong Lan, Mingmin Zhao, Changxing Ding, Taku Komura |
 
 ## Human-Scene Interaction (HSI)
 
