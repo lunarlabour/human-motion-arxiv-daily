@@ -1,10 +1,11 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-10-25. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-10-26. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
 | Updated | Title | Authors |
 | --- | --- | --- |
+| 2026-10-23 | [Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation](https://arxiv.org/abs/2610.32373) | Yi Liu, Xiangyue Zhang, Jianfang Li, Jia Ma, Yisheng He, Jianqiang Ren |
 | 2026-10-22 | [PiHand: Latent Hand-Object Interaction Priors for Physics-Based Policy Learning](https://arxiv.org/abs/2610.31299) | Niklas Berndt, Xianghui Xie, Enes Duran, Yixiao Wang, Gerard Pons-Moll |
 | 2026-10-21 | [DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos](https://arxiv.org/abs/2610.29936) | Naru Suzuki, Satoshi Ikehata, Takehiko Ohkawa, Yoichi Sato, Shuhei Kurita |
 | 2026-10-20 | [InteractAgent: Agentic Human Motion Interaction with Memory-Augmented Reflection](https://arxiv.org/abs/2610.25649) | Senhe Zhang, Tao Zhang, Yujia Zhang, Zeyu Zhang, Dong Gong |
@@ -29,7 +30,17 @@
 
 | Updated | Title | Authors |
 | --- | --- | --- |
-| 2026-10-22 | [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](https://arxiv.org/abs/2610.31670) | Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei |
+| 2026-10-23 | [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](https://arxiv.org/abs/2610.31670) | Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei |
+| 2026-10-23 | [RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms](https://arxiv.org/abs/2610.32971) | Xi Chen, Fengqi Hu, Zeyu Shen, Jiaying Xu, Shangding Gu, Pan Xu, Anqi Liu, Laixi Shi |
+| 2026-10-23 | [If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs](https://arxiv.org/abs/2610.32941) | Thomas Landeg, Thierry Tambe |
+| 2026-10-23 | [When Human Corrections Travel: Safety in Federated VLA Adaptation](https://arxiv.org/abs/2610.32888) | Vigneshwaran Subbaraju, Obaidullah Zaland, Monowar Bhuyan |
+| 2026-10-23 | [Retiming Robot Demonstrations with a Learned Speed Prior](https://arxiv.org/abs/2610.32676) | Seungyong Moon, Deokjae Lee, Hansang Lee, Munkhtselmeg Battsengel, Youngin Kim, Seonghyeon Yun, Sungjin Jeon, SongEun Kim, Jeongmin Park, Hyun Oh Song |
+| 2026-10-23 | [MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation](https://arxiv.org/abs/2610.32312) | Jiachi Yang, Zhiyi Xu, Hongquan Zhang, Xin Tan, Zhizhong Zhang, Jingyu Gong, Yuan Xie |
+| 2026-10-23 | [From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot](https://arxiv.org/abs/2610.32271) | Giovanni Minelli, Antonio Langella, Giovanni B. Dessy, Lorenzo Amatucci, Giulio Turrisi, Victor Barasuol, Claudio Semini |
+| 2026-10-23 | [Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems](https://arxiv.org/abs/2610.32208) | Christian A. Rogers, Qian Lin, Daniel S. Brown |
+| 2026-10-23 | [Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies](https://arxiv.org/abs/2610.32102) | Jiabing Yang, Yuan Xu, Yixiang Chen, Qisen Ma, Peiyan Li, Kai Wang, Chenhang Cui, Tao Yu, Zichen Wen, Wen Ye, Bowen Fang, Ziheng He, Xiangnan Wu, Yingda Li, Yan Huang, Liang Wang |
+| 2026-10-23 | [TTT in VLA Models: Exploring Training with Human Demonstrations](https://arxiv.org/abs/2610.32094) | Qiangong Zhou, Jiafeng Liang, Yimin Dong, Yang He, Hongxiang Li |
+| 2026-10-23 | [DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning](https://arxiv.org/abs/2610.32093) | Minho Park, Kinam Kim, Donghu Kim, Byungkun Lee, Dongyoon Hwang, Yongjae Shin, Junha Hyung, Hojoon Lee, Jaegul Choo |
 | 2026-10-22 | [Progress Probes $P^2$: Lightweight Runtime Monitoring for Vision-Language-Action Models](https://arxiv.org/abs/2610.31613) | Atiksh Bhardwaj, Edward W. Duan, Junwon Seo, Prithwish Dan, Wei-Chiu Ma, Andrea Bajscy, Preston Culbertson |
 | 2026-10-22 | [Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models](https://arxiv.org/abs/2610.31569) | Yufeng Liu, Bohao Fan, Juntu Zhao, Xinyi Wang, Hang Yu, Wenzhuan Luo, Yingzhi Wang, Qinghai Li, Yingdong Hu, Junliang Guo, Richard Wang, Dequan Wang, Yang Gao, Cheng Ma |
 | 2026-10-22 | [PhysTrace: Interpretable Temporal Evaluation of Physical Consistency in Video Generative Models](https://arxiv.org/abs/2610.31429) | Taekoan Yoo, Wonkyung Jung, Kyunghun Kim, Kyeongbo Kong |
@@ -42,6 +53,8 @@
 | 2026-10-22 | [When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies](https://arxiv.org/abs/2610.30735) | Shivakanth Sujit, Luca Nunziante, Rousslan Fernand Julien Dossa, Kai Arulkumaran |
 | 2026-10-22 | [SmolVLA-MoE: Sparse Mixture-of-Experts for Efficient Multi-Task Robotic Manipulation](https://arxiv.org/abs/2610.30732) | Shiyang Zhang, Miao Yang, Zhengda Li, Yang Shao, Ruifang Zhai, Hui Peng, Peng Song |
 | 2026-10-22 | [Co^2Gen: Collaboratively Generating Task Plans for Decentralized Multi-Robot and Human Collaboration](https://arxiv.org/abs/2610.30671) | Yi Loo, Siddhant Shrivastava, Minh Long Pham, Malika Meghjani |
+| 2026-10-22 | [Full-Weight VLA Fine-Tuning Without an fp32 Master Copy Silently Erases Most Updates](https://arxiv.org/abs/2610.31859) | Shubham Singh |
+| 2026-10-22 | [EgoForesight: Effectively Scaling Policy Learning with Noisy Egocentric Actions](https://arxiv.org/abs/2610.31845) | Chubin Zhang, Changyuan Wang, Yirui Wang, Ao Li, Shilin Ma, Yue Su, Cai Zhou, Xiuwei Xu, Tianle Zhang, Yansong Tang |
 | 2026-10-21 | [Agentic World Action Models](https://arxiv.org/abs/2610.30136) | Zhuoyang Liu, Dantong Niu, Botong Zhang, Boning Shao, Jing Wang, Ruijie Zheng, Yuvan Sharma, Runyu Lu, Jiaming Liu, Renrui Zhang, Roei Herzig, Yutong Bai, Ken Goldberg, Danfei Xu, Yuke Zhu, Guanzhi Wang, Linxi "Jim" Fan, Trevor Darrell |
 | 2026-10-21 | [CW-WAM: A Structured Contact-Wrench World Action Model for Force-Sensitive Manipulation](https://arxiv.org/abs/2610.30117) | Houzhu Ding, Xinda Qi, Luqi Wang, Ming Yang |
 | 2026-10-21 | [AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2610.30097) | Likui Zhang, Zhe Zhu, Zhihao Zhan, Yibo Bai, Hanlin Wang, Dongwei Li, Bin Wang, Tianle Zhang, Xiaodan Liang, Liang Lin |
@@ -90,7 +103,3 @@
 | 2026-10-19 | [Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving](https://arxiv.org/abs/2610.25734) | Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen |
 | 2026-10-19 | [Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation](https://arxiv.org/abs/2610.25600) | Xuezhou Xu, Chung-Pang Wang, Zhenzhen Li, Benjamin Riviere |
 | 2026-10-19 | [What Would Removing This Corruption Change? Failure Attribution for Vision-Language-Action Models](https://arxiv.org/abs/2610.27277) | Carson Sobolewski, Anjali Parashar, Fei Chen, Yingke Li, Chuchu Fan |
-| 2026-10-18 | [AQUAACT: A Joystick-Level Underwater Teleoperation Dataset and Closed-Loop Benchmark](https://arxiv.org/abs/2610.25534) | Zhenqi Wu, Trung Tien Dong, Aditya Penumarti, Mohamed A. Fouad, Menna A. Fouad, Mingyang Mao, Jane Jaejeong Shin, Xiaomin Lin |
-| 2026-10-18 | [BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks](https://arxiv.org/abs/2610.25459) | Yong Wang, Kecheng Zheng, Xing Zhu, Chao Xu, Yujun Shen, Shengze Cai |
-| 2026-10-18 | [AeroDASH: Asynchronous Vision-Language-Action Control for Continuous UAV Flight](https://arxiv.org/abs/2610.25407) | Zhe Liu, Yuxuan Zheng, Jinzhe Qin, Ziqi Gao, Boyu Zhou |
-| 2026-10-18 | [VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](https://arxiv.org/abs/2610.25043) | Sicheng He, Yi Pan, Qiuting Yu, Jiaming Huang, Qi Lu, Shuyan Wu, Hongyan Feng, Xuanyu Liu, Jun Zhang, Jie Zhang, Wenqi Zhang, Xuhong Zhang, Jianwei Yin |
