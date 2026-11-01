@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-10-31. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-11-01. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -73,7 +73,3 @@
 | 2026-10-25 | [HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience](https://arxiv.org/abs/2610.34186) | Yang Liu, Jiacheng Liu, Hengtao Li, Yuheng Huang, Zijian Yang, Ji Dai, Maoxin Wang, Yi Gao, Qishen Wang, Baohua Yin, Peiyang Li, Shuanghao Bai, Mingyang Sun, Pengxiang Ding, Jianqin Yin, Lixin Yang, Donglin Wang |
 | 2026-10-25 | [RoboDuo: Attempt, Check and Atomic Recovery through Code for Vision-Language-Action Models](https://arxiv.org/abs/2610.34108) | Jie Wang, Bo Zhang, Renzhi Lu, Jianyu Chen |
 | 2026-10-25 | [Behavior Spatial Benchmark: Evaluating Spatial Understanding for Robotics](https://arxiv.org/abs/2610.34051) | Sirui Chen, Huang Huang, Qineng Wang, Wenlong Huang, Manling Li, Ruohan Zhang, Li Fei-Fei, Jiajun Wu |
-| 2026-10-24 | [TurboWAM: Learning What Matters for Fast World Action Models](https://arxiv.org/abs/2610.33941) | Guile Wu, Shuangzhi Li, Xingxin Chen, Chengjie Huang, Sam Hosseini, Tongtong Cao, Yingxue Zhang, Dongfeng Bai |
-| 2026-10-24 | [Late Breaking Results: Audio-Language-Action Models with Direct Speech Conditioning for Robotic Manipulation](https://arxiv.org/abs/2610.33866) | Enfu Nan, Pu Zhao, Yixiao Chen, Lin Zhao, Juyi Lin, Chen Wang, Weiwei Chen, Yanzhi Wang |
-| 2026-10-24 | [One Scan is Enough: Demonstration-Free Adaptation for Language-Guided Navigation](https://arxiv.org/abs/2610.33794) | Zhuoyuan Yu, Yuxing Long, Du Wang, Junyang Wang, Hongwei Fan, Hao Dong |
-| 2026-10-24 | [EXE: Egocentric Cross-Embodiment Pretraining via Factorized Latent Actions for VLA Models](https://arxiv.org/abs/2610.33685) | Qingyuan Cai, Bo Zhang, Yongzhen Huang, Jianyu Chen |
