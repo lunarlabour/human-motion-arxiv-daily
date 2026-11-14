@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-11-13. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-11-14. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -11,7 +11,6 @@
 | 2026-11-08 | [Semantic Residual Vector Quantization for Sign Language Generation](https://arxiv.org/abs/2611.06781) | Chang Liu, Ke Han, Niccolò Biondi, Gloria Isotton, Elisa Ricci, Davide Talon, Nicu Sebe |
 | 2026-11-08 | [Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation](https://arxiv.org/abs/2611.11554) | Yunheng Wang, Jiaxi Zhang, Wei Lu, Yuetong Fang, Taowen Wang, Yixiao Feng, Shuning Zhang, Junzhe Xu, Yichi Wang, Zizhao Yuan, Kailun Huang, Lusong Li, Mingqian Zhou, Zecui Zeng, Renjing Xu |
 | 2026-11-07 | [MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification](https://arxiv.org/abs/2611.10592) | Jiaju Ma, Ashvini Kumar Jindal, Chuhua Wang, Sumithra Bhakthavatsalam |
-| 2026-11-06 | [Improving the Diffusability of Motion Tokenizer](https://arxiv.org/abs/2611.10160) | Guanhe Huang, Songqiao Han, Tangzheng Lian, Oya Celiktutan |
 
 ## Vision-Language-Action (VLA)
 
@@ -61,15 +60,3 @@
 | 2026-11-08 | [ForeAct: Geometry-Guided Action Learning from World Representations](https://arxiv.org/abs/2611.11500) | Wei Lu, Jiaxi Zhang, Yunheng Wang, Taowen Wang, Yuetong Fang, Zhenhui Zhang, Shuning Zhang, Zizhao Yuan, Yixiao Feng, Zecui Zeng, Renjing Xu |
 | 2026-11-08 | [When Coding Agents Get Arms: Safety Risks Across the Digital-Physical Boundary](https://arxiv.org/abs/2611.11438) | Yiming Sun, Mi Zhang |
 | 2026-11-08 | [DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight](https://arxiv.org/abs/2611.11166) | Zhongxi Chen, Yi Yang, Xinyi Chen, Mingzhe Ye, Yaping Li, Zhihong Liu, Congsheng Xu, Haonan Wang, Zhijie Deng |
-| 2026-11-06 | [On Agentic Manipulation Policies](https://arxiv.org/abs/2611.09892) | Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji, Jesse T. Gonzalez, Negin Heravi, Fahad Islam, Xueting Li, Jean-Baptiste Regli, Kejia Ren, Petr Švec, David J. Yoon, Matthias Müller, Vladlen Koltun |
-| 2026-11-06 | [SURE:Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning](https://arxiv.org/abs/2611.09684) | Jingye Zhang, Choo Sin Wai, Dake Zhong, Zhifang Liu, Yuhong Zhang, Siyao Xiao, Guorui Song, Guocun Wang, Dongbin Zhang, Peng Jiao, Haoqian Wang |
-| 2026-11-06 | [ODEAction: From Predicting Chunks to Evolving Actions](https://arxiv.org/abs/2611.09672) | Qishen Wang, Pengxiang Ding, Shifeng Bao, Mingyang Sun, Hengtao Li, Yi Gao, Baohua Yin, Yang Liu, Jiajun Fu, Jiacheng Liu, Changjing He, Peiyang Li, Runze Suo, Yan Wang, Xiaobo Wang, Yonghao Dang, Cheng Chi |
-| 2026-11-06 | [Can LLMs Debug Robots by Editing Their Weights?](https://arxiv.org/abs/2611.09376) | Jusheng Zhang, Keze Wang, Liang Lin |
-| 2026-11-06 | [HiMEM: Hippocampus-Inspired Memory Consolidation, Pruning, and Composition for Vision-Language-Action Models in 3D Scenes](https://arxiv.org/abs/2611.09355) | Boran Zhao, Yanbin Hu, Jun Ye, Zhenxian Hu, Yuxin Zhai, Jin Cui, Pengju Ren |
-| 2026-11-06 | [MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning](https://arxiv.org/abs/2611.09293) | Zixuan Huang, Jinhao Yu, Zachary Charlick, Dmitry Berenson |
-| 2026-11-06 | [Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124) | Chao Liang, Ke Chen, Fengxiaoxiao Li, Shibo Huang, Yufeng Sun, Zhaokai Yin, Jianhuan Lai, Haozhe Feng, Chenghuan Jia, Zhipeng Zhang |
-| 2026-11-06 | [DobotTrack: Target-Grounded Vision-Language-Action Learning for Embodied Person Tracking](https://arxiv.org/abs/2611.09041) | Shengjun Deng, Yinghan Zhang, Chengrui Wei, Liu Liang, Songyuan Liu, Pengkun Zheng, Yajun Zheng, Ying Zhang, Yuan Tian, Xi Li, Teng Wang |
-| 2026-11-06 | [VLA Handover: Failure-Prediction-Based Switching from On-Robot to Server VLA Models](https://arxiv.org/abs/2611.08987) | Takayuki Nishio |
-| 2026-11-06 | [PRISM: Primitive Routing via In-context Skill Mixing for Retentive VLA Adaptation](https://arxiv.org/abs/2611.08917) | Jiachen Tao, Gengyu Zhang, Haoxuan Wang, Bing Liu, Yan Yan |
-| 2026-11-06 | [Localizing and Editing the Goal Representation of a Vision-Language-Action Model](https://arxiv.org/abs/2611.08895) | Sudhanshu Srivastava, Faisal Aqlan |
-| 2026-11-06 | [ActPrune: Action-Grounded Visual Token Pruning for Efficient Vision-Language-Action Models](https://arxiv.org/abs/2611.08827) | Sungwon Moon, Minji Kim, Hyemin Boo, Daeun Song, Jiyoung Lee |
