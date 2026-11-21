@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-11-20. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-11-21. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -24,12 +24,6 @@
 | Updated | Title | Authors |
 | --- | --- | --- |
 | 2026-11-16 | [GRAZE: Text-Free Grasp Synthesis for Unseen Objects from Human Gaze](https://arxiv.org/abs/2611.21104) | Jeongho Lee, Boeun Kim, Hyung Jin Chang, Jungchan Cho, Sang-Il Choi |
-
-## Human-Human Interaction (HHI)
-
-| Updated | Title | Authors |
-| --- | --- | --- |
-| 2026-11-13 | [CISyn: Human Mesh Recovery in Close Interactions with Physics-Simulated Synthetic Data](https://arxiv.org/abs/2611.18894) | Yufan Deng, Lorenza Prospero, Christian Rupprecht |
 
 ## Vision-Language-Action (VLA)
 
@@ -111,9 +105,3 @@
 | 2026-11-15 | [Cache or Denoise Less? Residual Reuse in a Flow-Matching World Action Model](https://arxiv.org/abs/2611.19709) | Abhinav Gupta, Nissan Pow |
 | 2026-11-14 | [ResWAM: Learning What Changes, Not What Stays, for World-Action Models](https://arxiv.org/abs/2611.19559) | Chongyu Fan, Gaowen Liu, Ramana Rao Kompella, Jason Corso, Sijia Liu |
 | 2026-11-14 | [MARS: Dynamic Routing of Reinforcement-Learned Atomic Skills for Multi-Stage Robotic Manipulation](https://arxiv.org/abs/2611.19324) | Zequan Zeng, Junqin Yang, Kai Wang |
-| 2026-11-13 | [CARE-Drive: Coupled Alternating Refinement for Ego-trajectories](https://arxiv.org/abs/2611.15360) | Xiao Ma, Yijun Chen, Zhiquan Hu, Jicheng Zhao, Ran Ji, Yuming Li, Chuang Dai |
-| 2026-11-13 | [Training Reasoning Models in Simulation to Natively Use Real Robots](https://arxiv.org/abs/2611.18562) | Jiaming Tang, Zhuoyang Zhang, Junxian Guo, Fangzhou Zhao, Yilong Zhao, Zekai Li, Xingyang Li, Yuyang Zhao, Song Bian, Zhijian Liu, Song Han |
-| 2026-11-13 | [Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://arxiv.org/abs/2611.18397) | Run Luo, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang, Yufei Zhang, Renrong Hu, Yi Zhang, Guiyu Ma, Tianyu Fan, Longze Chen, Hao Sun, Jiaming Li, Jiaming Yang, Xiaohao Liu, Tao Tan, Minzheng Wang, Hangtian Jia, Shuai Yuan, Lvdi Wang, Xiao Liu, Chao Ma, Yuting Zou, Yinhe Zheng, Xiaobo Xia, Dawei Jiang, Shaoqing Ren |
-| 2026-11-13 | [Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment](https://arxiv.org/abs/2611.18372) | Suvarna Kadam, Soran Parsa |
-| 2026-11-13 | [ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents](https://arxiv.org/abs/2611.18176) | Yundi Cai, Zihan Wang, Chenxi Han, Yi Cheng, Houde Liu, Zilei Wang |
-| 2026-11-13 | [Joint World Action Models through Differentiable Trajectory Optimization](https://arxiv.org/abs/2611.17626) | Mintae Kim, Koushil Sreenath |
