@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-11-21. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-11-22. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -11,7 +11,6 @@
 | 2026-11-18 | [SemPhys: Semantic-Physical Co-Learning for Humanoid Motion Generation via Differentiable World Models](https://arxiv.org/abs/2611.24074) | Zejian Kang, Yeqiang Wang, Zekai Chen, Boyang Shen, Mingyu Ma, Bingqian Wu, Fan Zhou, Jianjie Zhang, Chentao Shen, Wentao Yang, Rui Qian, Xiangru Huang |
 | 2026-11-18 | [CoRelate: Coordinated Human-Object Motion Synthesis through Interaction Relations](https://arxiv.org/abs/2611.25166) | Zhiwen Qiu, Daisy Lin, Diyu Zhou, Jialin Wu, Rosita Ji, Saleh Kalantari |
 | 2026-11-17 | [DuoFlow: Towards Synchronized Speech and Motion Generation with Fine-Grained Control](https://arxiv.org/abs/2611.21530) | Jun Dong, Ronghui Li, Zhongyuan Hu, Yunqi Zhao, Lijie Guo, Ruizhang Xu, Di Kang, Linchao Bao, Xiu Li |
-| 2026-11-14 | [Spectral Steering: Local Inverse Geometry for Frozen Diffusion Generators](https://arxiv.org/abs/2611.19572) | Angelo Moroncelli, Alessandro Leanza, Loris Roveda |
 
 ## Human-Scene Interaction (HSI)
 
@@ -103,5 +102,3 @@
 | 2026-11-15 | [DiffWAM: Learning World Action Model from Consecutive Visual Difference](https://arxiv.org/abs/2611.19904) | Xinheng Zhang, Haoyu Xiong, Chao Jing, Xiaohan Zhang, Linshan Li, Hongbang Fan, Xingyu Chen |
 | 2026-11-15 | [When Backdoors Can Be Switched Off: Suppression-Aware Backdoor Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2611.19774) | Nur Afsa Syeda, Mohamed Elmahallawy |
 | 2026-11-15 | [Cache or Denoise Less? Residual Reuse in a Flow-Matching World Action Model](https://arxiv.org/abs/2611.19709) | Abhinav Gupta, Nissan Pow |
-| 2026-11-14 | [ResWAM: Learning What Changes, Not What Stays, for World-Action Models](https://arxiv.org/abs/2611.19559) | Chongyu Fan, Gaowen Liu, Ramana Rao Kompella, Jason Corso, Sijia Liu |
-| 2026-11-14 | [MARS: Dynamic Routing of Reinforcement-Learned Atomic Skills for Multi-Stage Robotic Manipulation](https://arxiv.org/abs/2611.19324) | Zequan Zeng, Junqin Yang, Kai Wang |
