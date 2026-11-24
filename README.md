@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-11-23. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-11-24. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -17,12 +17,6 @@
 | Updated | Title | Authors |
 | --- | --- | --- |
 | 2026-11-18 | [Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback](https://arxiv.org/abs/2611.25005) | Yao Zhang, Zhuchenyang Liu, Yu Xiao |
-
-## Human-Object Interaction (HOI)
-
-| Updated | Title | Authors |
-| --- | --- | --- |
-| 2026-11-16 | [GRAZE: Text-Free Grasp Synthesis for Unseen Objects from Human Gaze](https://arxiv.org/abs/2611.21104) | Jeongho Lee, Boeun Kim, Hyung Jin Chang, Jungchan Cho, Sang-Il Choi |
 
 ## Vision-Language-Action (VLA)
 
@@ -100,13 +94,3 @@
 | 2026-11-17 | [SR-VLA: Stall-Reduced VLA Execution via Predicted-Input Lookahead and Selective KV Cache Repair](https://arxiv.org/abs/2611.22356) | Tao Zhang, Yi Zhong, Jinhao Ruan, Yipeng Gao, Linfeng Zhong, Youming Yang, Yuan Wang |
 | 2026-11-17 | [Similar Is Not Useful: Selecting In-Context Demonstrations by Closed-Loop Utility](https://arxiv.org/abs/2611.22295) | Jiachen Li, Zhigen Zhao, Shihao Li, Dongmei Chen, Long Chen, Zhuo Xu |
 | 2026-11-17 | [EgoHandWAM: Probing the Role of Hand Motion in Egocentric World Action Modeling](https://arxiv.org/abs/2611.22151) | Kailin Wang, Haoxiang Jie, Yaoyuan Yan, Zhiyou Heng, Zhaosong Li |
-| 2026-11-16 | [ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters](https://arxiv.org/abs/2611.21607) | Ruixi Yu, Dairu Liu, Xuchuan Chen, Zekun Qi, Zekai Li, Zhuo Cao, Luyang Niu, Yingsheng Zhang, Sikai Liang, Ke Fan, He Wang, Li Yi |
-| 2026-11-16 | [MetricHand: Geometry-Aware Flow Matching for 4D Hand Reconstruction in Metric World Space](https://arxiv.org/abs/2611.21060) | Yibo Bai, Likui Zhang, Jinglei Zhang, Zhengbin Pang, Xingshen Song, Xiaoqing Yin, Jinsheng Deng |
-| 2026-11-16 | [POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models](https://arxiv.org/abs/2611.21033) | Jaehyuk Lee, Yeajin Lee, Suhyun Bae, Donghun Lee |
-| 2026-11-16 | [FAVR: Flow-Aware Visual Residual Alignment for Vision-Language-Action Policies](https://arxiv.org/abs/2611.20971) | Qixuan Wu, Xiaole Yang, Yuguang Yang, Canyu Chen, Linlin Yang, Haixia Pan, Guodong Guo, Baochang Zhang |
-| 2026-11-16 | [ACiT: Proprioceptive-Prior Action Chunking with Inverted Transformers](https://arxiv.org/abs/2611.20719) | Haixiang Wu, Zhihao Guan, Yang Yang |
-| 2026-11-16 | [Competent Autonomous Driving Through Fine Tuning Vision Language Action Models with Symbolic Traffic Rules](https://arxiv.org/abs/2611.20648) | Barkin Dagda, Vinal Asodia, Iman Sharifi, Peng Wei, Saber Fallah |
-| 2026-11-16 | [Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data](https://arxiv.org/abs/2611.20631) | Angel Martinez-Sanchez, Ross Greer |
-| 2026-11-16 | [ReRead: Wrong Predictions, Useful Representations - Correcting Frozen Robot Policies by Re-reading Their Own Representations](https://arxiv.org/abs/2611.20465) | Xu Su, Shunlong Xiao, Qintao Yi, Mingkuan Zhao, Xinmiao Yu, Yizhe Li, Zihan Wang, Bokui Chen |
-| 2026-11-16 | [Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models](https://arxiv.org/abs/2611.20460) | Jingru Guo, Alessandra Russo, Joey Bose, Christos Ziakas |
-| 2026-11-16 | [AR-WAM: efficient streaming world-action modeling for autonomous driving](https://arxiv.org/abs/2611.21851) | Baiting Luo, Shatadal Mishra, Ahmadreza Moradipari, Nejib Ammar |
