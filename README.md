@@ -1,5 +1,5 @@
 # Human Motion Arxiv Daily
-> Updated on 2026-11-27. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
+> Updated on 2026-11-28. Showing papers from the last 7 days; full archive in `papers.json`, machine-readable recent data in `recent.json`.
 
 ## Motion Generation
 
@@ -92,16 +92,3 @@
 | 2026-11-23 | [ConsisX: Cross-View Consistency Thinking in 3D for Vision-Language-Action Models](https://arxiv.org/abs/2611.30308) | Yunhe Zhang, Long Gao, Yuedong Fu, Gang He, Li Xu, Chang Wu, Pengyu Li |
 | 2026-11-23 | [Beyond Which: Where, How, and When in Vision-Language-Action Models](https://arxiv.org/abs/2611.30291) | Yunhe Zhang, Long Gao, Yuedong Fu, Gang He, Li Xu, Chang Wu, Songyuheng Gao |
 | 2026-11-23 | [Innata-0: A Native Embodied World System with Model-Agent Co-Design](https://arxiv.org/abs/2611.30254) |  Innata Team, Yu Bai, Ziyi Bai, Yuxuan Cai, Chenrui He, Wenhao Li, Zhe Lin, Heng Wang, Hai Yuan, Zhiwei Yu, Yuanhang Zhang, Luyou Chen, Tiezhu Gao, Zheng Geng, Jinbang Guo, Dongxu Han, Diqi He, Börje F. Karlsson, Jintao Li, Zhiyu Li, Xiongkun Linghu, Guang Liu, You Liu, Zhen Luo, Mengsi Lyu, Yufeng Lyu, Zheng Lyu, Quanyue Ma, Chunlei Men, Ziqiang Ni, Tengfei Pan, Yijun Shen, Liang Sun, Shaoxuan Xie, Xiang Yang, Guocai Yao, Hongjun Zhang, Yingli Zhao, Yonghua Lin, Zhongyuan Wang, Huan Yang |
-| 2026-11-20 | [Efficient VLA Reinforcement Learning via Subchunk Rollouts in Latent World Models](https://arxiv.org/abs/2611.27645) | Nan Tang, Han-Tao Zhang, Jing-Cheng Pang, Hao-Nan Wang, Hao-Xiang Ren, Yi-Fei Sheng, Jun-Yin Ye, Tian Xu, Fan-Ming Luo, Hao-Xin Lin, Yang Yu |
-| 2026-11-20 | [Beyond a Single Human Demonstration: Learning from Scored Trajectory Alternatives for End-to-End Driving](https://arxiv.org/abs/2611.27515) | Xinyao Rao, Zecheng Tang, Liuxuan Sun, Zheyuan Lai, Minjun Yu, Xun Cao, Wei Li |
-| 2026-11-20 | [GenPA: Image Generators as Efficient Robot Policies](https://arxiv.org/abs/2611.27446) | Zian Deng, Tianyi Zhang, Zilong Zheng, Ziyu Liu, Tao Zhang, Yao Lyu, Shengbo Eben Li |
-| 2026-11-20 | [Trailblazer-F: Speculative Action-Flow Inference for Autonomous Driving](https://arxiv.org/abs/2611.27226) | Haibo Hu, Lianming Huang, Qiao Li, Nan Guan, Chun Jason Xue |
-| 2026-11-20 | [SCAP: Stochastic Context for Action Expert Pretraining](https://arxiv.org/abs/2611.27187) | Xiao Lin, Yaoxu Lyu, Ronghao Dang, Zhili Liu, Kaijing Ma, Yang Zhou, Dingning Liu, Runzhe Teng, Jun Cen, Shanghang Zhang, Chengju Liu, Qijun Chen |
-| 2026-11-20 | [Tripwire: Robot Agents that Program Their Own Interrupts under Human Disturbance](https://arxiv.org/abs/2611.27182) | Sunli Chen, Yun Zong, Qinhong Zhou, Xiaowen Qiu, Jiaben Chen, Zeyuan Yang, Chuang Gan |
-| 2026-11-20 | [Learning from Incomplete Actions: Interval Motion Supervision for Vision-Language-Action Policies](https://arxiv.org/abs/2611.27171) | Yunpeng Mei, Chenyu Wang, Xiaowen Zhu, Chenbo Xin, Hongjie Cao, Yiyuan Li, Chengye Zhang, YuAn Wang, Gang Wang |
-| 2026-11-20 | [BeyondEgo: Learning to Act Beyond Egocentric Perception via Humanoid Ego-Exo Foresight](https://arxiv.org/abs/2611.27047) | Zhaoshan Yang, Chenglei Li, Haoyu Lei, Yutao Zhang, Yuyu Yang, Zhuo Chen, Ling Ding, Zhongxing Ren, Yi Gu, Heyang Zhang, Peng Su, Jin Pan |
-| 2026-11-20 | [RoboColiseum: Co-evolution of Simulation, Evaluation, and Models](https://arxiv.org/abs/2611.27042) | Chenghao Yin, Da Huang, Di Yang, Jichao Wang, Junhui Wu, Nanshu Zhao, Tong Ran, Zhijun Li, Gang Zhao, Linting Guo, Rui Feng, Sheng Zhang, Tianyu Jiang, Wenjun Sun, Yongxin Su, Zhaobo Liu, Zheyuan Xing, Sukai Wang, Yue Zhou, Qihan Jiang, Jianhua Jiang, Chuang Men, Yuxiang Yan, Daizhen Lv, Kunyu Yu, Yongjian Shen, Tianxiang Zhu, Siying Zhang, Wenhao Wang, Jun Zhao, Bowen Jiang, Zhi Zeng, Maoqing Yao, Qian Wang |
-| 2026-11-20 | [FoRe: A Force-Guided Framework for Autonomous Grasp Recovery in Vision-Language-Action Models](https://arxiv.org/abs/2611.27011) | Shuai Peng, Yongkai Liao, Yuxin Cheng, Haoyuan Wang, Jian Huang |
-| 2026-11-20 | [ViewDreamer: A Robot World Model beyond Fixed Camera Setups](https://arxiv.org/abs/2611.26981) | Ye Mao, Jinhui Xiong, Egor Larionov, Shiyang Lu, Krystian Mikolajczyk, Wei Ye |
-| 2026-11-20 | [RoboDyna: A Benchmark for Evaluating Robotic Manipulation under Physically Grounded Dynamics](https://arxiv.org/abs/2611.26969) | Zhiyuan Li, Rui Heng Yang, Xuan Zhao, Amir Rasouli |
-| 2026-11-20 | [Analysis of Multi-Client Inference Techniques for Vision-Language-Action Models](https://arxiv.org/abs/2611.26944) | Stefan de Lasa, Mohammadreza Mofayezi, Gennady Pekhimenko, Nandita Vijaykumar |
